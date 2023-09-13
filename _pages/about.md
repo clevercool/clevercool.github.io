@@ -26,17 +26,18 @@ I am currently a Ph.D. student at Shanghai Jiao Tong University under the superv
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-- ``ISCA 2023`` [OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization](https://arxiv.org/abs/2304.07493), Cong Guo, Jiaming Tang, Weiming Hu, Jingwen Leng, Chen Zhang, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu;[![](https://img.shields.io/github/stars/clevercool/ANT-Quantization?style=social&label=Code+Stars)](https://github.com/clevercool/ANT-Quantization)
-- ``Micro 2022`` [ANT: Exploiting Adaptive Numerical Data Type for Low-bit Deep Neural Network Quantization](https://arxiv.org/abs/2208.14286), Cong Guo, Chen Zhang, Jingwen Leng, Zihan Liu, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu;[![](https://img.shields.io/github/stars/clevercool/ANT-Quantization?style=social&label=Code+Stars)](https://github.com/clevercool/ANT-Quantization)
+- ``ISCA 2023`` [OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization](https://arxiv.org/abs/2304.07493), **Cong Guo**, Jiaming Tang, Weiming Hu, Jingwen Leng, Chen Zhang, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu;[![](https://img.shields.io/github/stars/clevercool/ANT-Quantization?style=social&label=Code+Stars)](https://github.com/clevercool/ANT-Quantization)
+- ``Micro 2022`` [ANT: Exploiting Adaptive Numerical Data Type for Low-bit Deep Neural Network Quantization](https://arxiv.org/abs/2208.14286), **Cong Guo**, Chen Zhang, Jingwen Leng, Zihan Liu, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu;[![](https://img.shields.io/github/stars/clevercool/ANT-Quantization?style=social&label=Code+Stars)](https://github.com/clevercool/ANT-Quantization)
   <div class="pubtitle">2023 IEEE Micro Top Picks Honorable Mention </div>
-- ``ICLR 2022`` [SQuant: On-the-Fly Data-Free Quantization via Diagonal Hessian Approximation](https://arxiv.org/abs/2202.07471), Cong Guo, Yuxian Qiu, Jingwen Leng, Xiaotian Gao, Chen Zhang, Yunxin Liu, Fan Yang, Yuhao Zhu, Minyi Guo;[![](https://img.shields.io/github/stars/clevercool/SQuant?style=social&label=Code+Stars)](https://github.com/clevercool/SQuant)
-- ``ICCD 2022`` [Nesting Forward Automatic Differentiation for Memory-Efficient Deep Neural Network Training](https://arxiv.org/abs/2209.10778), Cong Guo, Yuxian Qiu, Jingwen Leng, Chen Zhang, Ying Cao, Quanlu Zhang, Yunxin Liu, Fan Yang, Minyi Guo;
-- ``MSN 2022`` [Towards Reliable AI Applications via Algorithm-Based Fault Tolerance on NVDLA](https://www.computer.org/csdl/proceedings-article/msn/2022/645700a736/1LUtObKmgko), Mustafa Tarik Sanic, Cong Guo, Jingwen Leng, Minyi Guo, Weiyin Ma;<div class="pubtitle">Best Paper Award</div>
-- ``IISWC 2021`` [Characterizing and Demystifying the Implicit Convolution Algorithm on Commercial Matrix-Multiplication Accelerators](https://arxiv.org/abs/2110.03901), Yangjie Zhou, Mengtian Yang, Cong Guo, Jingwen Leng, Yun Liang, Quan Chen, Minyi Guo, Yuhao Zhu;
-- ``ISCA 2021`` [Dual-side Sparse Tensor Core](https://arxiv.org/abs/2105.09564), Yang Wang, Chen Zhang, Zhiqiang Xie, Cong Guo, Yunxin Liu, Jingwen Leng;
-- ``SC 2022`` [Accelerating Sparse DNN Models without Hardware-Support via Tile-Wise Sparsity](https://arxiv.org/abs/2008.13006), Cong Guo, Bo Yang Hsueh, Jingwen Leng, Yuxian Qiu, Yue Guan, Zehuan Wang, Xiaoying Jia, Xipeng Li, Minyi Guo, Yuhao Zhu; [![](https://img.shields.io/github/stars/clevercool/TileSparsity?style=social&label=Code+Stars)](https://github.com/clevercool/TileSparsity)
-- ``DAC 2020`` [Balancing Efficiency and Flexibility for DNN Acceleration via Temporal GPU-Systolic Array Integration](https://arxiv.org/abs/2002.08326), Rongjie Huang, Chunlei Zhang, Cong Guo, Yangjie Zhou, Jingwen Leng, Yuhao Zhu, Zidong Du, Quan Chen, Chao Li, Bin Yao, Minyi Guo; 
-- `CVPR 2019` [Adversarial Defense Through Network Profiling Based Path Extraction](https://openaccess.thecvf.com/content_CVPR_2019/html/Qiu_Adversarial_Defense_Through_Network_Profiling_Based_Path_Extraction_CVPR_2019_paper.html), Yuxian Qiu, Jingwen Leng, Cong Guo, Quan Chen, Chao Li, Minyi Guo, Yuhao Zhu;
+- ``ICLR 2022`` [SQuant: On-the-Fly Data-Free Quantization via Diagonal Hessian Approximation](https://arxiv.org/abs/2202.07471), **Cong Guo**, Yuxian Qiu, Jingwen Leng, Xiaotian Gao, Chen Zhang, Yunxin Liu, Fan Yang, Yuhao Zhu, Minyi Guo;[![](https://img.shields.io/github/stars/clevercool/SQuant?style=social&label=Code+Stars)](https://github.com/clevercool/SQuant)
+- ``ICCD 2022`` [Nesting Forward Automatic Differentiation for Memory-Efficient Deep Neural Network Training](https://arxiv.org/abs/2209.10778), **Cong Guo**, Yuxian Qiu, Jingwen Leng, Chen Zhang, Ying Cao, Quanlu Zhang, Yunxin Liu, Fan Yang, Minyi Guo;
+- ``MSN 2022`` [Towards Reliable AI Applications via Algorithm-Based Fault Tolerance on NVDLA](https://www.computer.org/csdl/proceedings-article/msn/2022/645700a736/1LUtObKmgko), Mustafa Tarik Sanic, **Cong Guo**, Jingwen Leng, Minyi Guo, Weiyin Ma;
+  <div class="pubtitle">Best Paper Award</div>
+- ``IISWC 2021`` [Characterizing and Demystifying the Implicit Convolution Algorithm on Commercial Matrix-Multiplication Accelerators](https://arxiv.org/abs/2110.03901), Yangjie Zhou, Mengtian Yang, **Cong Guo**, Jingwen Leng, Yun Liang, Quan Chen, Minyi Guo, Yuhao Zhu;
+- ``ISCA 2021`` [Dual-side Sparse Tensor Core](https://arxiv.org/abs/2105.09564), Yang Wang, Chen Zhang, Zhiqiang Xie, **Cong Guo**, Yunxin Liu, Jingwen Leng;
+- ``SC 2022`` [Accelerating Sparse DNN Models without Hardware-Support via Tile-Wise Sparsity](https://arxiv.org/abs/2008.13006), **Cong Guo**, Bo Yang Hsueh, Jingwen Leng, Yuxian Qiu, Yue Guan, Zehuan Wang, Xiaoying Jia, Xipeng Li, Minyi Guo, Yuhao Zhu; [![](https://img.shields.io/github/stars/clevercool/TileSparsity?style=social&label=Code+Stars)](https://github.com/clevercool/TileSparsity)
+- ``DAC 2020`` [Balancing Efficiency and Flexibility for DNN Acceleration via Temporal GPU-Systolic Array Integration](https://arxiv.org/abs/2002.08326), Rongjie Huang, Chunlei Zhang, **Cong Guo**, Yangjie Zhou, Jingwen Leng, Yuhao Zhu, Zidong Du, Quan Chen, Chao Li, Bin Yao, Minyi Guo; 
+- `CVPR 2019` [Adversarial Defense Through Network Profiling Based Path Extraction](https://openaccess.thecvf.com/content_CVPR_2019/html/Qiu_Adversarial_Defense_Through_Network_Profiling_Based_Path_Extraction_CVPR_2019_paper.html), Yuxian Qiu, Jingwen Leng, **Cong Guo**, Quan Chen, Chao Li, Minyi Guo, Yuhao Zhu;
   
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -55,7 +56,7 @@ I am currently a Ph.D. student at Shanghai Jiao Tong University under the superv
 - *2020.07* DAC2020 Richard Newton Young Student Fellow, Design Automation Conference    
 - *2018.11* VMware Scholarship, Shanghai Jiao Tong University
 - *2017.11* National Second Prize, The 14th China Post-Graduate Mathematical Contest in Modeling
-- 
+  
 # 📖 Educations
 - *2020.09 - 2023.09*, Ph.D in Computer Science and Technology, Department of Computer Science and Engineering, Shanghai Jiao Tong University.
 - *2017.09 - 2020.03*, M.E. in Computer Technology, Department of Computer Science and Engineering, Shanghai Jiao Tong University.

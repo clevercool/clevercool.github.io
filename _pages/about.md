@@ -11,15 +11,12 @@ redirect_from:
 <style>
 .comment{
     background: white;
-    color: #88B04B;
+    color: #BD2A2E;
     font-size: 12px;
     padding: 1px 5px 1px 5px;
-    border-radius: 15px;
+    border-radius: 0px;
     float: left;
     font-weight: bold;
-}
-.font-bold{
-    font-weight:bold;
 }
 </style>
 
@@ -43,12 +40,11 @@ I am currently a Ph.D. student at Shanghai Jiao Tong University under the superv
 # 📝 Publications 
 - ``ISCA 2023`` [OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization](https://arxiv.org/abs/2304.07493), **Cong Guo**, Jiaming Tang, Weiming Hu, Jingwen Leng, Chen Zhang, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu;[![](https://img.shields.io/github/stars/clevercool/ANT-Quantization?style=social&label=Code+Stars)](https://github.com/clevercool/ANT-Quantization)
 - ``Micro 2022`` [ANT: Exploiting Adaptive Numerical Data Type for Low-bit Deep Neural Network Quantization](https://arxiv.org/abs/2208.14286), **Cong Guo**, Chen Zhang, Jingwen Leng, Zihan Liu, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu;[![](https://img.shields.io/github/stars/clevercool/ANT-Quantization?style=social&label=Code+Stars)](https://github.com/clevercool/ANT-Quantization)
-  <div class="comment">2023 IEEE Micro Top Picks Honorable Mention!</div>
+  <div class="comment">2023 IEEE Micro Top Picks Honorable Mention!</div> &nbsp;
 
 - ``ICLR 2022`` [SQuant: On-the-Fly Data-Free Quantization via Diagonal Hessian Approximation](https://arxiv.org/abs/2202.07471), **Cong Guo**, Yuxian Qiu, Jingwen Leng, Xiaotian Gao, Chen Zhang, Yunxin Liu, Fan Yang, Yuhao Zhu, Minyi Guo;[![](https://img.shields.io/github/stars/clevercool/SQuant?style=social&label=Code+Stars)](https://github.com/clevercool/SQuant)
 - ``ICCD 2022`` [Nesting Forward Automatic Differentiation for Memory-Efficient Deep Neural Network Training](https://arxiv.org/abs/2209.10778), **Cong Guo**, Yuxian Qiu, Jingwen Leng, Chen Zhang, Ying Cao, Quanlu Zhang, Yunxin Liu, Fan Yang, Minyi Guo;
-- ``MSN 2022`` [Towards Reliable AI Applications via Algorithm-Based Fault Tolerance on NVDLA](https://www.computer.org/csdl/proceedings-article/msn/2022/645700a736/1LUtObKmgko), Mustafa Tarik Sanic, **Cong Guo**, Jingwen Leng, Minyi Guo, Weiyin Ma;
-  <div class="comment">Best Paper Award!</div>
+- ``MSN 2022`` [Towards Reliable AI Applications via Algorithm-Based Fault Tolerance on NVDLA](https://www.computer.org/csdl/proceedings-article/msn/2022/645700a736/1LUtObKmgko), Mustafa Tarik Sanic, **Cong Guo**, Jingwen Leng, Minyi Guo, Weiyin Ma; <div class="comment">Best Paper Award!</div>&nbsp;
   
 - ``IISWC 2021`` [Characterizing and Demystifying the Implicit Convolution Algorithm on Commercial Matrix-Multiplication Accelerators](https://arxiv.org/abs/2110.03901), Yangjie Zhou, Mengtian Yang, **Cong Guo**, Jingwen Leng, Yun Liang, Quan Chen, Minyi Guo, Yuhao Zhu;
 - ``ISCA 2021`` [Dual-side Sparse Tensor Core](https://arxiv.org/abs/2105.09564), Yang Wang, Chen Zhang, Zhiqiang Xie, **Cong Guo**, Yunxin Liu, Jingwen Leng;

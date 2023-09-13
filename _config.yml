@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Cong Guo"
-description              : "Ph.D. from Shanghai Jiao Tong University"
+description              : "Shanghai Jiao Tong University"
 repository               : "clevercool/clevercool.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Cong Guo (郭聪)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Shanghai Jiao Tong University"
+  bio              : "Ph.D."
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : clevercool
   google_plus      :
   keybase          :
   instagram        :

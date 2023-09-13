@@ -8,16 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+<span class='anchor' id='about-me'></span>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
-
-<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.-->
 
 
 I am currently a Ph.D. student at Shanghai Jiao Tong University under the supervision of Prof. Jingwen Leng. My research interests include computer architecture and high-performance computing. I have published more than 10 papers at the international conferences with total <a href='https://scholar.google.com/citations?user=sp5VwJoAAAAJ'>google scholar citations <strong><span id='total_cit'>200</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=sp5VwJoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). 
@@ -28,18 +26,19 @@ I am currently a Ph.D. student at Shanghai Jiao Tong University under the superv
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-- <div class="pubtitle">test1 test1 2022</div> &nbsp;[test1](), test1
-- <li><div class="pubtitle">test2 test2 2022</div> &nbsp;[test2](), test2.</li>
 - ``ISCA 2023`` [OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization](https://arxiv.org/abs/2304.07493), Cong Guo, Jiaming Tang, Weiming Hu, Jingwen Leng, Chen Zhang, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu;[![](https://img.shields.io/github/stars/clevercool/ANT-Quantization?style=social&label=Code+Stars)](https://github.com/clevercool/ANT-Quantization)
 - ``Micro 2022`` [ANT: Exploiting Adaptive Numerical Data Type for Low-bit Deep Neural Network Quantization](https://arxiv.org/abs/2208.14286), Cong Guo, Chen Zhang, Jingwen Leng, Zihan Liu, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu;[![](https://img.shields.io/github/stars/clevercool/ANT-Quantization?style=social&label=Code+Stars)](https://github.com/clevercool/ANT-Quantization)
+  <div class="pubtitle">2023 IEEE Micro Top Picks Honorable Mention </div>
 - ``ICLR 2022`` [SQuant: On-the-Fly Data-Free Quantization via Diagonal Hessian Approximation](https://arxiv.org/abs/2202.07471), Cong Guo, Yuxian Qiu, Jingwen Leng, Xiaotian Gao, Chen Zhang, Yunxin Liu, Fan Yang, Yuhao Zhu, Minyi Guo;[![](https://img.shields.io/github/stars/clevercool/SQuant?style=social&label=Code+Stars)](https://github.com/clevercool/SQuant)
 - ``ICCD 2022`` [Nesting Forward Automatic Differentiation for Memory-Efficient Deep Neural Network Training](https://arxiv.org/abs/2209.10778), Cong Guo, Yuxian Qiu, Jingwen Leng, Chen Zhang, Ying Cao, Quanlu Zhang, Yunxin Liu, Fan Yang, Minyi Guo;
-- ``MSN 2022`` [Towards Reliable AI Applications via Algorithm-Based Fault Tolerance on NVDLA](https://www.computer.org/csdl/proceedings-article/msn/2022/645700a736/1LUtObKmgko), Mustafa Tarik Sanic, Cong Guo, Jingwen Leng, Minyi Guo, Weiyin Ma;
+- ``MSN 2022`` [Towards Reliable AI Applications via Algorithm-Based Fault Tolerance on NVDLA](https://www.computer.org/csdl/proceedings-article/msn/2022/645700a736/1LUtObKmgko), Mustafa Tarik Sanic, Cong Guo, Jingwen Leng, Minyi Guo, Weiyin Ma;<div class="pubtitle">Best Paper Award</div>
 - ``IISWC 2021`` [Characterizing and Demystifying the Implicit Convolution Algorithm on Commercial Matrix-Multiplication Accelerators](https://arxiv.org/abs/2110.03901), Yangjie Zhou, Mengtian Yang, Cong Guo, Jingwen Leng, Yun Liang, Quan Chen, Minyi Guo, Yuhao Zhu;
 - ``ISCA 2021`` [Dual-side Sparse Tensor Core](https://arxiv.org/abs/2105.09564), Yang Wang, Chen Zhang, Zhiqiang Xie, Cong Guo, Yunxin Liu, Jingwen Leng;
 - ``SC 2022`` [Accelerating Sparse DNN Models without Hardware-Support via Tile-Wise Sparsity](https://arxiv.org/abs/2008.13006), Cong Guo, Bo Yang Hsueh, Jingwen Leng, Yuxian Qiu, Yue Guan, Zehuan Wang, Xiaoying Jia, Xipeng Li, Minyi Guo, Yuhao Zhu; [![](https://img.shields.io/github/stars/clevercool/TileSparsity?style=social&label=Code+Stars)](https://github.com/clevercool/TileSparsity)
 - ``DAC 2020`` [Balancing Efficiency and Flexibility for DNN Acceleration via Temporal GPU-Systolic Array Integration](https://arxiv.org/abs/2002.08326), Rongjie Huang, Chunlei Zhang, Cong Guo, Yangjie Zhou, Jingwen Leng, Yuhao Zhu, Zidong Du, Quan Chen, Chao Li, Bin Yao, Minyi Guo; 
 - `CVPR 2019` [Adversarial Defense Through Network Profiling Based Path Extraction](https://openaccess.thecvf.com/content_CVPR_2019/html/Qiu_Adversarial_Defense_Through_Network_Profiling_Based_Path_Extraction_CVPR_2019_paper.html), Yuxian Qiu, Jingwen Leng, Cong Guo, Quan Chen, Chao Li, Minyi Guo, Yuhao Zhu;
+  
+
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
@@ -69,6 +68,7 @@ I am currently a Ph.D. student at Shanghai Jiao Tong University under the superv
 
 # 💻 Internships
 - *2020.06 - 2021.05*, Research Intern, Microsoft Research Asia (Beijing).
+  
 <!-- - Project 1: Design a Dual-side Sparse Tensor Core to support dual-side sparse matrix multiplication. Published in ISCA 2021.
 - Project 2: Design a low-precision cache compression approach for accelerating DNN training and inference. Published in
 ICCD 2022.
@@ -76,6 +76,7 @@ ICCD 2022.
 - Project 4: Design an on-the-fly data-free quantization method to significantly improve the model accuracy and accelerate the quantization processing. Published in ICLR 2022. -->
   
 - *2019.05 - 2019.12*, Intern, NVIDIA (Shanghai).
+  
 <!-- - Intern: NVIDIA (Shanghai) May 2019 - Dec. 2019
   - Design a structured sparse pruning method according to the characteristics of the neural network;
   - Efficiently implements the structured pruning method on the GPU Tensor Core to accelerate the inference stage of the neural network. Published in SC 2020. -->

@@ -7,12 +7,12 @@
 
 # Site Settings
 title                    : "Cong Guo"
-description              : "I am currently a Ph.D. student at Shanghai Jiao Tong University under the supervision of Prof. Jingwen Leng. My research interests include computer architecture and high-performance computing."
+description              : "Ph.D. from Shanghai Jiao Tong University"
 repository               : "clevercool/clevercool.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  G-T10WTW7Z7C
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Cong Guo"
+  name             : "Cong Guo (郭聪)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Shanghai Jiao Tong University"
   location         : "Shanghai, China"
@@ -64,9 +64,9 @@ include:
   - .htaccess
   - _pages
   - files
+  - google_scholar_crawler
 exclude:
   - docs
-  - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

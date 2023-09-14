@@ -64,7 +64,7 @@ I am currently a Ph.D. student at Shanghai Jiao Tong University under the superv
 - *2023.07* IEEE Micro Top Picks from Computer Architecture Conferences Honorable Mention
 - *2023.06* Outstanding Doctoral Graduates, Shanghai Jiao Tong University
 - *2022.08* Excellent Ph.D. Scholarship of Yang Yuanqing Education Fund (Top-3/500+), Shanghai Jiao Tong University
-- *2020.11* Ph.D. National Scholarship (Top-3/500+), Ministry of Education, PRC
+- *2020.11* Ph.D. National Scholarship (Top-8/500+), Ministry of Education, PRC
 - *2020.07* DAC2020 Richard Newton Young Student Fellow, Design Automation Conference    
 - *2018.11* VMware Scholarship, Shanghai Jiao Tong University
 - *2017.11* National Second Prize, The 14th China Post-Graduate Mathematical Contest in Modeling

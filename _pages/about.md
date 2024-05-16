@@ -35,6 +35,7 @@ I am currently a postdoctoral associate at Duke University, working with Prof. Y
 
 # 🔥 News
 - *2024.03*: &nbsp;🎉🎉🎉  I have been selected to be the recipient of the 2023 Shanghai Jiao Tong University Outstanding Doctoral Dissertation Award, [15 winners in 2023 at SJTU](https://www.gs.sjtu.edu.cn/yxbslw).
+  
 # 📝 Publications 
 - ``ASPLOS 2024`` [GMLake: Efficient and Transparent GPU Memory Defragmentation for Large-scale DNN Training with Virtual Memory Stitching](https://arxiv.org/abs/2401.08156), **Cong Guo**, Rui Zhang, Jiale Xu, Jingwen Leng, Zihan Liu, Ziyu Huang, Minyi Guo, Hao Wu, Shouren Zhao, Junping Zhao, Ke Zhang;
 - ``ASPLOS 2024`` [JUNO: Optimizing High-Dimensional Approximate Nearest Neighbour Search with Sparsity-Aware Algorithm and Ray-Tracing Core Mapping](https://arxiv.org/abs/2312.01712), Zihan Liu, Wentao Ni, Jingwen Leng, Yu Feng, **Cong Guo**, Quan Chen, Chao Li, Minyi Guo, Yuhao Zhu;

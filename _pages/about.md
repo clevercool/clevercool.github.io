@@ -65,7 +65,7 @@ I am currently a postdoctoral associate at Duke University, working with Prof. Y
 
 - *2024.03* Outstanding Doctoral Dissertation Award, Shanghai Jiao Tong University
 - *2023.07* IEEE Micro Top Picks from Computer Architecture Conferences Honorable Mention
-- *2023.06* Outstanding Doctoral Student Award, Shanghai Jiao Tong University
+- *2023.06* Outstanding Doctoral Graduates, Shanghai Jiao Tong University
 - *2022.08* Excellent Ph.D. Scholarship of Yang Yuanqing Education Fund (Top-3/500+), Shanghai Jiao Tong University
 - *2020.11* Ph.D. National Scholarship (Top-8/500+), Ministry of Education, PRC
 - *2020.07* DAC2020 Richard Newton Young Student Fellow, Design Automation Conference    

@@ -30,11 +30,12 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-SI am currently a postdoctoral associate at Duke University, working with Prof. Yiran Chen and Prof. Hai (Helen) Li. I obtained my Ph.D. degree from the Computer Science and Engineering (CSE) at Shanghai Jiao Tong University in September 2023, under the supervision of Prof. Jingwen Leng. My research interests include computer architecture and high-performance computing. I have published more than 10 papers at international conferences with a total of <a href='https://scholar.google.com/citations?user=sp5VwJoAAAAJ'>the Google Scholar citations <strong><span id='total_cit'>200</span></strong></a> (You can also use Google Scholar badge <a href='https://scholar.google.com/citations?user=sp5VwJoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). 
+I am currently a postdoctoral associate at Duke University, working with Prof. Yiran Chen and Prof. Hai (Helen) Li. I obtained the Ph.D. degree from the Department of Computer Science and Engineering (CSE) at Shanghai Jiao Tong University in September 2023, under the supervision of Prof. Jingwen Leng. My research interests include computer architecture and high-performance computing. I have published more than 10 papers at international conferences with a total of <a href='https://scholar.google.com/citations?user=sp5VwJoAAAAJ'>the Google Scholar citations <strong><span id='total_cit'>200</span></strong></a> (You can also use Google Scholar badge <a href='https://scholar.google.com/citations?user=sp5VwJoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). 
 
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉🎉🎉  I have been selected to be the recipient of the 2023 Shanghai Jiao Tong University Outstanding Doctoral Dissertation Award, [15 winners in 2023 at SJTU](https://www.gs.sjtu.edu.cn/yxbslw).
+- *2024.03*: &nbsp;🎉🎉🎉  I have been selected to be the recipient of the 2023 Shanghai Jiao Tong University Outstanding Doctoral Dissertation Award, [15 winners in 2023 at SJTU](https://www.gs.sjtu.edu.cn/yxbslw) ([上海交通大学优秀博士学位论文，全校15人/工学8人](https://www.gs.sjtu.edu.cn/yxbslw)).
+- *2023.11*: &nbsp;🎉  Two papers (one collaborative paper) are accepted by **ASPLOS 2024**.
   
 # 📝 Publications 
 - ``ASPLOS 2024`` [GMLake: Efficient and Transparent GPU Memory Defragmentation for Large-scale DNN Training with Virtual Memory Stitching](https://arxiv.org/abs/2401.08156), **Cong Guo**, Rui Zhang, Jiale Xu, Jingwen Leng, Zihan Liu, Ziyu Huang, Minyi Guo, Hao Wu, Shouren Zhao, Junping Zhao, Ke Zhang;

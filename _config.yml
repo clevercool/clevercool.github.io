@@ -21,10 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Cong Guo \n (郭聪)"
+  name             : "Cong Guo"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ph.D.\n 
-  Postdoctoral Associate"
+  bio              : "Postdoctoral Associate"
   location         : "Durham, NC, US"
   employer         :
   pubmed           : 

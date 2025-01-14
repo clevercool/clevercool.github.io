@@ -34,25 +34,31 @@ I am currently a postdoctoral associate at Duke University, working with Prof. Y
 
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉🎉🎉  I received the 2023 Shanghai Jiao Tong University **Outstanding Doctoral Dissertation Award**, [15 winners in 2023 at SJTU](https://www.gs.sjtu.edu.cn/yxbslw) ([上海交通大学优秀博士学位论文，全校共15人](https://www.gs.sjtu.edu.cn/yxbslw)).
-- *2023.11*: &nbsp;🎉  Two papers (one collaborative paper) are accepted by **ASPLOS 2024**.
+- *2024.11*: &nbsp;🎉  Three papers are accepted by **HPCA 2025**.
+- *2024.03*: &nbsp;🎉  I received the 2023 Shanghai Jiao Tong University **Outstanding Doctoral Dissertation Award**, [15 winners in 2023 at SJTU](https://www.gs.sjtu.edu.cn/yxbslw) ([上海交通大学优秀博士学位论文，全校共15人](https://www.gs.sjtu.edu.cn/yxbslw)).
+- *2023.11*: &nbsp;🎉  Two papers are accepted by **ASPLOS 2024**.
   
 # 📝 Publications 
-- ``ASPLOS 2024`` [GMLake: Efficient and Transparent GPU Memory Defragmentation for Large-scale DNN Training with Virtual Memory Stitching](https://arxiv.org/abs/2401.08156), **Cong Guo**, Rui Zhang, Jiale Xu, Jingwen Leng, Zihan Liu, Ziyu Huang, Minyi Guo, Hao Wu, Shouren Zhao, Junping Zhao, Ke Zhang;
-- ``ASPLOS 2024`` [JUNO: Optimizing High-Dimensional Approximate Nearest Neighbour Search with Sparsity-Aware Algorithm and Ray-Tracing Core Mapping](https://arxiv.org/abs/2312.01712), Zihan Liu, Wentao Ni, Jingwen Leng, Yu Feng, **Cong Guo**, Quan Chen, Chao Li, Minyi Guo, Yuhao Zhu;
+- ``HPCA 2025`` Prosperity: Accelerating Spiking Neural Networks via Product Sparsity. Chiyue Wei, **Cong Guo***, Feng Cheng, Shiyu Li, Hao Yang, Hai Li, Yiran Chen; (*Corresponding Author)
+[![](https://img.shields.io/github/stars/dubcyfor3/Prosperity?style=social&label=Code+Stars)](https://github.com/dubcyfor3/Prosperity)
+- ``HPCA 2025`` VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference. Zihan Liu, Xinhao Luo, Junxian Guo, Wentao Ni, Yangjie Zhou, Yue Guan, Cong Guo, Weihao Cui, Yu Feng, Minyi GUo, Yuhao Zhu, Minjia Zhang, Jingwen Leng, Chen Jin;
+- ``HPCA 2025`` MANT: Efficient Low-bit Group Quantization for LLMs via Mathematically Adaptive Numerical Type.. Weiming Hu, Haoyan Zhang, Cong Guo, Yu Feng, Renyang Guan, Zhendong Hua, Zihan Liu, Yue Guan, Minyi Guo, Jingwen Leng;
+- ``ASPLOS 2024`` [GMLake: Efficient and Transparent GPU Memory Defragmentation for Large-scale DNN Training with Virtual Memory Stitching](https://arxiv.org/abs/2401.08156). **Cong Guo**, Rui Zhang, Jiale Xu, Jingwen Leng, Zihan Liu, Ziyu Huang, Minyi Guo, Hao Wu, Shouren Zhao, Junping Zhao, Ke Zhang;
+- ``ASPLOS 2024`` [JUNO: Optimizing High-Dimensional Approximate Nearest Neighbour Search with Sparsity-Aware Algorithm and Ray-Tracing Core Mapping](https://arxiv.org/abs/2312.01712). Zihan Liu, Wentao Ni, Jingwen Leng, Yu Feng, **Cong Guo**, Quan Chen, Chao Li, Minyi Guo, Yuhao Zhu;
 - ``TC 2024`` [Accelerating Sparse DNNs Based on Tiled GEMM](https://arxiv.org/abs/2402.10876), **Cong Guo**, Fengchen Xue, Jingwen Leng, Yuxian Qiu, Yue Guan, Weihao Cui, Quan Chen, Minyi Guo;
-- ``ISCA 2023`` [OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization](https://arxiv.org/abs/2304.07493), **Cong Guo**, Jiaming Tang, Weiming Hu, Jingwen Leng, Chen Zhang, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu;[![](https://img.shields.io/github/stars/clevercool/ANT-Quantization?style=social&label=Code+Stars)](https://github.com/clevercool/ANT-Quantization)
-- ``Micro 2022`` <span style="color:red">(2023 IEEE Micro Top Picks Honorable Mention)</span> [ANT: Exploiting Adaptive Numerical Data Type for Low-bit Deep Neural Network Quantization](https://arxiv.org/abs/2208.14286), **Cong Guo**, Chen Zhang, Jingwen Leng, Zihan Liu, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu;[![](https://img.shields.io/github/stars/clevercool/ANT-Quantization?style=social&label=Code+Stars)](https://github.com/clevercool/ANT-Quantization) 
+- ``ISCA 2023`` [OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization](https://arxiv.org/abs/2304.07493). **Cong Guo**, Jiaming Tang, Weiming Hu, Jingwen Leng, Chen Zhang, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu;
+[![](https://img.shields.io/github/stars/clevercool/ANT-Quantization?style=social&label=Code+Stars)](https://github.com/clevercool/ANT-Quantization)
+- ``Micro 2022`` <span style="color:red">(2023 IEEE Micro Top Picks Honorable Mention)</span> [ANT: Exploiting Adaptive Numerical Data Type for Low-bit Deep Neural Network Quantization](https://arxiv.org/abs/2208.14286). **Cong Guo**, Chen Zhang, Jingwen Leng, Zihan Liu, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu;[![](https://img.shields.io/github/stars/clevercool/ANT-Quantization?style=social&label=Code+Stars)](https://github.com/clevercool/ANT-Quantization) 
 
-- ``ICLR 2022`` [SQuant: On-the-Fly Data-Free Quantization via Diagonal Hessian Approximation](https://arxiv.org/abs/2202.07471), **Cong Guo**, Yuxian Qiu, Jingwen Leng, Xiaotian Gao, Chen Zhang, Yunxin Liu, Fan Yang, Yuhao Zhu, Minyi Guo;[![](https://img.shields.io/github/stars/clevercool/SQuant?style=social&label=Code+Stars)](https://github.com/clevercool/SQuant)
-- ``ICCD 2022`` [Nesting Forward Automatic Differentiation for Memory-Efficient Deep Neural Network Training](https://arxiv.org/abs/2209.10778), **Cong Guo**, Yuxian Qiu, Jingwen Leng, Chen Zhang, Ying Cao, Quanlu Zhang, Yunxin Liu, Fan Yang, Minyi Guo;
-- ``MSN 2022`` <span style="color:red">(Best Paper Award)</span> [Towards Reliable AI Applications via Algorithm-Based Fault Tolerance on NVDLA](https://www.computer.org/csdl/proceedings-article/msn/2022/645700a736/1LUtObKmgko), Mustafa Tarik Sanic, **Cong Guo**, Jingwen Leng, Minyi Guo, Weiyin Ma; 
+- ``ICLR 2022`` [SQuant: On-the-Fly Data-Free Quantization via Diagonal Hessian Approximation](https://arxiv.org/abs/2202.07471). **Cong Guo**, Yuxian Qiu, Jingwen Leng, Xiaotian Gao, Chen Zhang, Yunxin Liu, Fan Yang, Yuhao Zhu, Minyi Guo;[![](https://img.shields.io/github/stars/clevercool/SQuant?style=social&label=Code+Stars)](https://github.com/clevercool/SQuant)
+- ``ICCD 2022`` [Nesting Forward Automatic Differentiation for Memory-Efficient Deep Neural Network Training](https://arxiv.org/abs/2209.10778). **Cong Guo**, Yuxian Qiu, Jingwen Leng, Chen Zhang, Ying Cao, Quanlu Zhang, Yunxin Liu, Fan Yang, Minyi Guo;
+- ``MSN 2022`` <span style="color:red">(Best Paper Award)</span> [Towards Reliable AI Applications via Algorithm-Based Fault Tolerance on NVDLA](https://www.computer.org/csdl/proceedings-article/msn/2022/645700a736/1LUtObKmgko). Mustafa Tarik Sanic, **Cong Guo**, Jingwen Leng, Minyi Guo, Weiyin Ma; 
   
-- ``IISWC 2021`` [Characterizing and Demystifying the Implicit Convolution Algorithm on Commercial Matrix-Multiplication Accelerators](https://arxiv.org/abs/2110.03901), Yangjie Zhou, Mengtian Yang, **Cong Guo**, Jingwen Leng, Yun Liang, Quan Chen, Minyi Guo, Yuhao Zhu;
+- ``IISWC 2021`` [Characterizing and Demystifying the Implicit Convolution Algorithm on Commercial Matrix-Multiplication Accelerators](https://arxiv.org/abs/2110.03901). Yangjie Zhou, Mengtian Yang, **Cong Guo**, Jingwen Leng, Yun Liang, Quan Chen, Minyi Guo, Yuhao Zhu;
 - ``ISCA 2021`` [Dual-side Sparse Tensor Core](https://arxiv.org/abs/2105.09564), Yang Wang, Chen Zhang, Zhiqiang Xie, **Cong Guo**, Yunxin Liu, Jingwen Leng;
-- ``SC 2022`` [Accelerating Sparse DNN Models without Hardware-Support via Tile-Wise Sparsity](https://arxiv.org/abs/2008.13006), **Cong Guo**, Bo Yang Hsueh, Jingwen Leng, Yuxian Qiu, Yue Guan, Zehuan Wang, Xiaoying Jia, Xipeng Li, Minyi Guo, Yuhao Zhu; [![](https://img.shields.io/github/stars/clevercool/TileSparsity?style=social&label=Code+Stars)](https://github.com/clevercool/TileSparsity)
-- ``DAC 2020`` [Balancing Efficiency and Flexibility for DNN Acceleration via Temporal GPU-Systolic Array Integration](https://arxiv.org/abs/2002.08326), **Cong Guo**, Yangjie Zhou, Jingwen Leng, Yuhao Zhu, Zidong Du, Quan Chen, Chao Li, Bin Yao, Minyi Guo; 
-- `CVPR 2019` [Adversarial Defense Through Network Profiling Based Path Extraction](https://openaccess.thecvf.com/content_CVPR_2019/html/Qiu_Adversarial_Defense_Through_Network_Profiling_Based_Path_Extraction_CVPR_2019_paper.html), Yuxian Qiu, Jingwen Leng, **Cong Guo**, Quan Chen, Chao Li, Minyi Guo, Yuhao Zhu;
+- ``SC 2022`` [Accelerating Sparse DNN Models without Hardware-Support via Tile-Wise Sparsity](https://arxiv.org/abs/2008.13006). **Cong Guo**, Bo Yang Hsueh, Jingwen Leng, Yuxian Qiu, Yue Guan, Zehuan Wang, Xiaoying Jia, Xipeng Li, Minyi Guo, Yuhao Zhu; [![](https://img.shields.io/github/stars/clevercool/TileSparsity?style=social&label=Code+Stars)](https://github.com/clevercool/TileSparsity)
+- ``DAC 2020`` [Balancing Efficiency and Flexibility for DNN Acceleration via Temporal GPU-Systolic Array Integration](https://arxiv.org/abs/2002.08326). **Cong Guo**, Yangjie Zhou, Jingwen Leng, Yuhao Zhu, Zidong Du, Quan Chen, Chao Li, Bin Yao, Minyi Guo; 
+- `CVPR 2019` [Adversarial Defense Through Network Profiling Based Path Extraction](https://openaccess.thecvf.com/content_CVPR_2019/html/Qiu_Adversarial_Defense_Through_Network_Profiling_Based_Path_Extraction_CVPR_2019_paper.html). Yuxian Qiu, Jingwen Leng, **Cong Guo**, Quan Chen, Chao Li, Minyi Guo, Yuhao Zhu;
   
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -62,7 +68,7 @@ I am currently a postdoctoral associate at Duke University, working with Prof. Y
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 
 - *2024.03* Outstanding Doctoral Dissertation Award, Shanghai Jiao Tong University
 - *2023.07* IEEE Micro Top Picks from Computer Architecture Conferences Honorable Mention
@@ -72,18 +78,18 @@ I am currently a postdoctoral associate at Duke University, working with Prof. Y
 - *2020.07* DAC2020 Richard Newton Young Student Fellow, Design Automation Conference    
 - *2018.11* VMware Scholarship, Shanghai Jiao Tong University
 - *2017.11* National Second Prize, The 14th China Post-Graduate Mathematical Contest in Modeling
-  
-# 📖 Educations
-- *2020.09 - 2023.09*, Ph.D in Computer Science and Technology, Department of Computer Science and Engineering, Shanghai Jiao Tong University.
-- *2017.09 - 2020.03*, M.E. in Computer Technology, Department of Computer Science and Engineering, Shanghai Jiao Tong University.
-- *2012.09 - 2016.06*, B.S. in Computer Science and Technology, College of Computer Science and Software Engineering, Shenzhen University.
 
+# 👔 Academic Service
+Journal Reviewer:
+ - IEEE Transactions on Computers
+ - Science China Information Sciences
+ - IEEE Transactions on Circuits and Systems for Video Technology
+ - Transactions on Architecture and Code Optimization
+ - Transactions on Embedded Computing Systems
+ - IEEE Transactions on Very Large Scale Integration Systems
+ - IEEE Transactions on Circuits and Systems for Artificial Intelligence
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-# 💻 Work Experience
+# 💻 Experience
 
 - *2023.12 - Now*, Postdoctoral associate, Department of ECE, Duke University.
   
@@ -100,3 +106,13 @@ ICCD 2022.
 <!-- - Intern: NVIDIA (Shanghai) May 2019 - Dec. 2019
   - Design a structured sparse pruning method according to the characteristics of the neural network;
   - Efficiently implements the structured pruning method on the GPU Tensor Core to accelerate the inference stage of the neural network. Published in SC 2020. -->
+  - 
+# 📖 Educations
+- *2020.09 - 2023.09*, Ph.D in Computer Science and Technology, Department of Computer Science and Engineering, Shanghai Jiao Tong University.
+- *2017.09 - 2020.03*, M.E. in Computer Technology, Department of Computer Science and Engineering, Shanghai Jiao Tong University.
+- *2012.09 - 2016.06*, B.S. in Computer Science and Technology, College of Computer Science and Software Engineering, Shenzhen University.
+
+
+<!-- # 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->

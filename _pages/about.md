@@ -39,10 +39,10 @@ I am currently a postdoctoral associate at Duke University, working with Prof. Y
 - *2023.11*: &nbsp;🎉  Two papers are accepted by **ASPLOS 2024**.
   
 # 📝 Publications 
-- ``HPCA 2025`` Prosperity: Accelerating Spiking Neural Networks via Product Sparsity. Chiyue Wei, **Cong Guo***, Feng Cheng, Shiyu Li, Hao Yang, Hai Li, Yiran Chen; (*Corresponding Author)
+- ``HPCA 2025`` Prosperity: Accelerating Spiking Neural Networks via Product Sparsity. Chiyue Wei, **Cong Guo**\*, Feng Cheng, Shiyu Li, Hao Yang, Hai Li, Yiran Chen; (\*Corresponding Author)
 [![](https://img.shields.io/github/stars/dubcyfor3/Prosperity?style=social&label=Code+Stars)](https://github.com/dubcyfor3/Prosperity)
-- ``HPCA 2025`` VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference. Zihan Liu, Xinhao Luo, Junxian Guo, Wentao Ni, Yangjie Zhou, Yue Guan, Cong Guo, Weihao Cui, Yu Feng, Minyi GUo, Yuhao Zhu, Minjia Zhang, Jingwen Leng, Chen Jin;
-- ``HPCA 2025`` MANT: Efficient Low-bit Group Quantization for LLMs via Mathematically Adaptive Numerical Type.. Weiming Hu, Haoyan Zhang, Cong Guo, Yu Feng, Renyang Guan, Zhendong Hua, Zihan Liu, Yue Guan, Minyi Guo, Jingwen Leng;
+- ``HPCA 2025`` VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference. Zihan Liu, Xinhao Luo, Junxian Guo, Wentao Ni, Yangjie Zhou, Yue Guan, **Cong Guo**, Weihao Cui, Yu Feng, Minyi GUo, Yuhao Zhu, Minjia Zhang, Jingwen Leng, Chen Jin;
+- ``HPCA 2025`` MANT: Efficient Low-bit Group Quantization for LLMs via Mathematically Adaptive Numerical Type.. Weiming Hu, Haoyan Zhang, **Cong Guo**, Yu Feng, Renyang Guan, Zhendong Hua, Zihan Liu, Yue Guan, Minyi Guo, Jingwen Leng;
 - ``ASPLOS 2024`` [GMLake: Efficient and Transparent GPU Memory Defragmentation for Large-scale DNN Training with Virtual Memory Stitching](https://arxiv.org/abs/2401.08156). **Cong Guo**, Rui Zhang, Jiale Xu, Jingwen Leng, Zihan Liu, Ziyu Huang, Minyi Guo, Hao Wu, Shouren Zhao, Junping Zhao, Ke Zhang;
 - ``ASPLOS 2024`` [JUNO: Optimizing High-Dimensional Approximate Nearest Neighbour Search with Sparsity-Aware Algorithm and Ray-Tracing Core Mapping](https://arxiv.org/abs/2312.01712). Zihan Liu, Wentao Ni, Jingwen Leng, Yu Feng, **Cong Guo**, Quan Chen, Chao Li, Minyi Guo, Yuhao Zhu;
 - ``TC 2024`` [Accelerating Sparse DNNs Based on Tiled GEMM](https://arxiv.org/abs/2402.10876), **Cong Guo**, Fengchen Xue, Jingwen Leng, Yuxian Qiu, Yue Guan, Weihao Cui, Quan Chen, Minyi Guo;
@@ -69,9 +69,9 @@ I am currently a postdoctoral associate at Duke University, working with Prof. Y
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🏆 Honors and Awards
-
-- *2024.03* Outstanding Doctoral Dissertation Award, Shanghai Jiao Tong University
-- *2023.07* IEEE Micro Top Picks from Computer Architecture Conferences Honorable Mention
+<!-- - *2024.05* [OlympusMons Awards 2023](https://e.huawei.com/en/topic/storage/olympus-mons-awards-2023) -->
+- *2024.03* [Outstanding Doctoral Dissertation Award](https://www.gs.sjtu.edu.cn/yxbslw), Shanghai Jiao Tong University
+- *2023.07* [IEEE Micro Top Picks from 2022 Computer Architecture Conferences Honorable Mention](https://www.computer.org/csdl/magazine/mi/2023/04/10167515/1OjMSZbXMas)
 - *2023.06* Outstanding Doctoral Graduates, Shanghai Jiao Tong University
 - *2022.08* Excellent Ph.D. Scholarship of Yang Yuanqing Education Fund (Top-3/500+), Shanghai Jiao Tong University
 - *2020.11* Ph.D. National Scholarship (Top-8/500+), Ministry of Education, PRC
@@ -81,13 +81,13 @@ I am currently a postdoctoral associate at Duke University, working with Prof. Y
 
 # 👔 Academic Service
 Journal Reviewer:
- - IEEE Transactions on Computers
- - Science China Information Sciences
- - IEEE Transactions on Circuits and Systems for Video Technology
- - Transactions on Architecture and Code Optimization
- - Transactions on Embedded Computing Systems
- - IEEE Transactions on Very Large Scale Integration Systems
- - IEEE Transactions on Circuits and Systems for Artificial Intelligence
+ - IEEE Transactions on Computers (TC)
+ - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+ - Science China Information Sciences (SCIS)
+ - Transactions on Architecture and Code Optimization (TACO)
+ - Transactions on Embedded Computing Systems (TECS)
+ - IEEE Transactions on Very Large Scale Integration Systems (TVLSI)
+ - IEEE Transactions on Circuits and Systems for Artificial Intelligence (TCASAI)
 
 # 💻 Experience
 

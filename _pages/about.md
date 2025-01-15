@@ -35,7 +35,7 @@ I am currently a postdoctoral associate at Duke University, working with Prof. Y
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉  Three papers are accepted by **HPCA 2025**.
-- *2024.03*: &nbsp;🎉  I received the 2023 Shanghai Jiao Tong University **Outstanding Doctoral Dissertation Award**, [15 winners in 2023 at SJTU](https://www.gs.sjtu.edu.cn/yxbslw) ([上海交通大学优秀博士学位论文，全校共15人](https://www.gs.sjtu.edu.cn/yxbslw)).
+- *2024.03*: &nbsp;🎉  I received the 2023 Shanghai Jiao Tong University **Outstanding Doctoral Dissertation Award**, [15 winners (<1\%) per year.](https://www.gs.sjtu.edu.cn/yxbslw) ([上海交通大学优秀博士学位论文，全校共15人](https://www.gs.sjtu.edu.cn/yxbslw)).
 - *2023.11*: &nbsp;🎉  Two papers are accepted by **ASPLOS 2024**.
   
 # 📝 Publications 
@@ -107,7 +107,7 @@ ICCD 2022.
   - Design a structured sparse pruning method according to the characteristics of the neural network;
   - Efficiently implements the structured pruning method on the GPU Tensor Core to accelerate the inference stage of the neural network. Published in SC 2020. -->
   
-  
+
 # 📖 Educations
 - *2020.09 - 2023.09*, Ph.D in Computer Science and Technology, Department of Computer Science and Engineering, Shanghai Jiao Tong University.
 - *2017.09 - 2020.03*, M.E. in Computer Technology, Department of Computer Science and Engineering, Shanghai Jiao Tong University.

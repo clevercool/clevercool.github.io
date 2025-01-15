@@ -35,7 +35,7 @@ I am currently a postdoctoral associate at Duke University, working with Prof. Y
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉  Three papers are accepted by **HPCA 2025**.
-- *2024.03*: &nbsp;🎉  I received the 2023 Shanghai Jiao Tong University **Outstanding Doctoral Dissertation Award**, [15 winners (<1\%) per year.](https://www.gs.sjtu.edu.cn/yxbslw) ([上海交通大学优秀博士学位论文，全校共15人](https://www.gs.sjtu.edu.cn/yxbslw)).
+- *2024.03*: &nbsp;🎉  I received the 2023 Shanghai Jiao Tong University **Outstanding Doctoral Dissertation Award**, [15 winners (<1%) per year.](https://www.gs.sjtu.edu.cn/yxbslw) ([2023年度上海交通大学优秀博士学位论文，全校共15人](https://www.gs.sjtu.edu.cn/yxbslw)).
 - *2023.11*: &nbsp;🎉  Two papers are accepted by **ASPLOS 2024**.
   
 # 📝 Publications 

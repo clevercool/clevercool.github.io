@@ -106,7 +106,8 @@ ICCD 2022.
 <!-- - Intern: NVIDIA (Shanghai) May 2019 - Dec. 2019
   - Design a structured sparse pruning method according to the characteristics of the neural network;
   - Efficiently implements the structured pruning method on the GPU Tensor Core to accelerate the inference stage of the neural network. Published in SC 2020. -->
-  - 
+  
+  
 # 📖 Educations
 - *2020.09 - 2023.09*, Ph.D in Computer Science and Technology, Department of Computer Science and Engineering, Shanghai Jiao Tong University.
 - *2017.09 - 2020.03*, M.E. in Computer Technology, Department of Computer Science and Engineering, Shanghai Jiao Tong University.

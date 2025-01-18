@@ -92,8 +92,14 @@ Journal Reviewer:
 # 💻 Experience
 
 - *2023.12 - Now*, Postdoctoral associate, Department of ECE, Duke University.
+
+- *2021.06 - 2023.12*, Research intern, Shanghai Qi Zhi Institute.
   
+- *2023.04 - 2023.09*, Reaserch intern, ANT Group (AliPay).
+
 - *2020.06 - 2021.05*, Research intern, Microsoft Research Asia (Beijing).
+  
+- *2019.05 - 2019.12*, Intern, NVIDIA (Shanghai).
   
 <!-- - Project 1: Design a Dual-side Sparse Tensor Core to support dual-side sparse matrix multiplication. Published in ISCA 2021.
 - Project 2: Design a low-precision cache compression approach for accelerating DNN training and inference. Published in
@@ -101,7 +107,6 @@ ICCD 2022.
 - Project 3: Design a new adaptive numerical data type for low-bit DNN quantization. Published in Micro 2022.
 - Project 4: Design an on-the-fly data-free quantization method to significantly improve the model accuracy and accelerate the quantization processing. Published in ICLR 2022. -->
   
-- *2019.05 - 2019.12*, Intern, NVIDIA (Shanghai).
   
 <!-- - Intern: NVIDIA (Shanghai) May 2019 - Dec. 2019
   - Design a structured sparse pruning method according to the characteristics of the neural network;

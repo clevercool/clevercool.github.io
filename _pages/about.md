@@ -40,7 +40,7 @@ I am currently a postdoctoral associate at Duke University, working with Prof. Y
   
 # 📝 Publications 
 ### Conference:
-- ``HPCA 2025`` Chiyue Wei, **Cong Guo**\*, Feng Cheng, Shiyu Li, Hao Yang, Hai Li, Yiran Chen; Prosperity: [Accelerating Spiking Neural Networks via Product Sparsity](https://arxiv.org/abs/2503.03379). (\*Corresponding Author)
+- ``HPCA 2025`` Chiyue Wei, **Cong Guo**\*, Feng Cheng, Shiyu Li, Hao Yang, Hai Li, Yiran Chen; [Prosperity: Accelerating Spiking Neural Networks via Product Sparsity](https://arxiv.org/abs/2503.03379). (\*Corresponding Author)
 [![](https://img.shields.io/github/stars/dubcyfor3/Prosperity?style=social&label=Code+Stars)](https://github.com/dubcyfor3/Prosperity)
 - ``HPCA 2025`` Zihan Liu, Xinhao Luo, Junxian Guo, Wentao Ni, Yangjie Zhou, Yue Guan, **Cong Guo**, Weihao Cui, Yu Feng, Minyi Guo, Yuhao Zhu, Minjia Zhang, Jingwen Leng, Chen Jin; [VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference](https://arxiv.org/abs/2503.02236). 
 - ``HPCA 2025`` Weiming Hu, Haoyan Zhang, **Cong Guo**, Yu Feng, Renyang Guan, Zhendong Hua, Zihan Liu, Yue Guan, Minyi Guo, Jingwen Leng; [MANT: Efficient Low-bit Group Quantization for LLMs via Mathematically Adaptive Numerical Type](https://arxiv.org/abs/2502.18755).
@@ -54,7 +54,7 @@ I am currently a postdoctoral associate at Duke University, working with Prof. Y
 - ``ICCD 2022`` **Cong Guo**, Yuxian Qiu, Jingwen Leng, Chen Zhang, Ying Cao, Quanlu Zhang, Yunxin Liu, Fan Yang, Minyi Guo; [Nesting Forward Automatic Differentiation for Memory-Efficient Deep Neural Network Training](https://arxiv.org/abs/2209.10778). 
 - ``MSN 2022`` Mustafa Tarik Sanic, **Cong Guo**, Jingwen Leng, Minyi Guo, Weiyin Ma;   [Towards Reliable AI Applications via Algorithm-Based Fault Tolerance on NVDLA](https://www.computer.org/csdl/proceedings-article/msn/2022/645700a736/1LUtObKmgko). <span style="color:red">(Best Paper Award)</span>  
 - ``CF 2022`` Yangjie Zhou, Yaoxu Song, Jingwen Leng, Zihan Liu, Weihao Cui, Zhendong Zhang, **Cong Guo**, Quan Chen, Li Li, Minyi Guo;   [AdaptGear: Accelerating GNN Training via Adaptive Subgraph-Level Kernels on GPUs](https://arxiv.org/abs/2305.17408). 
-- ``IISWC 2021`` [Characterizing and Demystifying the Implicit Convolution Algorithm on Commercial Matrix-Multiplication Accelerators](https://arxiv.org/abs/2110.03901). Yangjie Zhou, Mengtian Yang, **Cong Guo**, Jingwen Leng, Yun Liang, Quan Chen, Minyi Guo, Yuhao Zhu;
+- ``IISWC 2021`` Yangjie Zhou, Mengtian Yang, **Cong Guo**, Jingwen Leng, Yun Liang, Quan Chen, Minyi Guo, Yuhao Zhu; [Characterizing and Demystifying the Implicit Convolution Algorithm on Commercial Matrix-Multiplication Accelerators](https://arxiv.org/abs/2110.03901).
 - ``ISCA 2021`` Yang Wang, Chen Zhang, Zhiqiang Xie, **Cong Guo**, Yunxin Liu, Jingwen Leng; [Dual-side Sparse Tensor Core](https://arxiv.org/abs/2105.09564), 
 - ``SC 2022`` **Cong Guo**, Bo Yang Hsueh, Jingwen Leng, Yuxian Qiu, Yue Guan, Zehuan Wang, Xiaoying Jia, Xipeng Li, Minyi Guo, Yuhao Zhu; [Accelerating Sparse DNN Models without Hardware-Support via Tile-Wise Sparsity](https://arxiv.org/abs/2008.13006).  [![](https://img.shields.io/github/stars/clevercool/TileSparsity?style=social&label=Code+Stars)](https://github.com/clevercool/TileSparsity)
 - ``DAC 2020``  **Cong Guo**, Yangjie Zhou, Jingwen Leng, Yuhao Zhu, Zidong Du, Quan Chen, Chao Li, Bin Yao, Minyi Guo; [Balancing Efficiency and Flexibility for DNN Acceleration via Temporal GPU-Systolic Array Integration](https://arxiv.org/abs/2002.08326).
@@ -97,13 +97,9 @@ Journal Reviewer:
 # 💻 Experience
 
 - *2023.12 - Now*, Postdoctoral associate, Department of ECE, Duke University.
-
-- *2021.06 - 2023.12*, Research intern, Shanghai Qi Zhi Institute.
-  
+- *2021.06 - 2023.12*, Research intern, Shanghai Qi Zhi Institute.  
 - *2023.04 - 2023.09*, Reaserch intern, ANT Group (AliPay).
-
-- *2020.06 - 2021.05*, Research intern, Microsoft Research Asia (Beijing).
-  
+- *2020.06 - 2021.05*, Research intern, Microsoft Research Asia (Beijing).  
 - *2019.05 - 2019.12*, Intern, NVIDIA (Shanghai).
   
 <!-- - Project 1: Design a Dual-side Sparse Tensor Core to support dual-side sparse matrix multiplication. Published in ISCA 2021.

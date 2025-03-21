@@ -34,6 +34,7 @@ I am currently a postdoctoral associate at Duke University, working with Prof. Y
 
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉🎉  Three papers are accepted by **ISCA 2025**.
 - *2024.11*: &nbsp;🎉  Three papers are accepted by **HPCA 2025**.
 - *2024.03*: &nbsp;🎉  I received the 2023 Shanghai Jiao Tong University **Outstanding Doctoral Dissertation Award**, [15 winners (<1%) per year.](https://www.gs.sjtu.edu.cn/yxbslw) ([2023年度上海交通大学优秀博士学位论文，全校共15人](https://www.gs.sjtu.edu.cn/yxbslw)).
 - *2023.11*: &nbsp;🎉  Two papers are accepted by **ASPLOS 2024**.
@@ -115,9 +116,9 @@ ICCD 2022.
   
 
 # 📖 Educations
-- *2020.09 - 2023.09*, Ph.D in Computer Science and Technology, Department of Computer Science and Engineering, Shanghai Jiao Tong University.
+- *2020.09 - 2023.09*, Ph.D in Computer Science, Department of Computer Science and Engineering, Shanghai Jiao Tong University.
 - *2017.09 - 2020.03*, M.E. in Computer Technology, Department of Computer Science and Engineering, Shanghai Jiao Tong University.
-- *2012.09 - 2016.06*, B.S. in Computer Science and Technology, College of Computer Science and Software Engineering, Shenzhen University.
+- *2012.09 - 2016.06*, B.S. in Computer Science, College of Computer Science and Software Engineering, Shenzhen University.
 
 
 <!-- # 💬 Invited Talks

@@ -42,11 +42,11 @@ I am currently a postdoctoral associate at Duke University, working with Prof. Y
 # 📝 Publications 
 ### Conference:
 - ``ISCA 2025`` **Cong Guo**\*, Chiyue Wei, Jiaming Tang, Bowen Duan, Song Han, Hai Li, Yiran Chen; Transitive Array: An Efficient GEMM Accelerator with Result Reuse. (\*Corresponding Author)
-[![](https://img.shields.io/github/stars/dubcyfor3/Prosperity?style=social&label=Code+Stars)](https://github.com/dubcyfor3/Prosperity)
+<!-- [![](https://img.shields.io/github/stars/dubcyfor3/Prosperity?style=social&label=Code+Stars)](https://github.com/dubcyfor3/Prosperity) -->
 - ``ISCA 2025`` Chiyue Wei, Bowen Duan, **Cong Guo**\*, Jingyang Zhang, Qingyue Song, Hai Li, Yiran Chen; Phi: Leveraging Pattern-based Hierarchical Sparsity for High-Efficiency Spiking Neural Networks. (\*Corresponding Author)
-[![](https://img.shields.io/github/stars/dubcyfor3/Prosperity?style=social&label=Code+Stars)](https://github.com/dubcyfor3/Prosperity)
+<!-- [![](https://img.shields.io/github/stars/dubcyfor3/Prosperity?style=social&label=Code+Stars)](https://github.com/dubcyfor3/Prosperity) -->
 - ``ISCA 2025`` Feng Cheng, **Cong Guo**\*, Chiyue Wei, Junyao Zhang, Changchun Zhou, Edward Hanson, Jiaqi Zhang, Xiaoxiao Liu, Hai Li, Yiran Chen; Ecco: Improving Memory Bandwidth and Capacity for LLMs via Entropy-aware Cache Compression. (\*Corresponding Author)
-[![](https://img.shields.io/github/stars/dubcyfor3/Prosperity?style=social&label=Code+Stars)](https://github.com/dubcyfor3/Prosperity)
+<!-- [![](https://img.shields.io/github/stars/dubcyfor3/Prosperity?style=social&label=Code+Stars)](https://github.com/dubcyfor3/Prosperity) -->
 - ``HPCA 2025`` Chiyue Wei, **Cong Guo**\*, Feng Cheng, Shiyu Li, Hao Yang, Hai Li, Yiran Chen; [Prosperity: Accelerating Spiking Neural Networks via Product Sparsity](https://arxiv.org/abs/2503.03379). (\*Corresponding Author)
 [![](https://img.shields.io/github/stars/dubcyfor3/Prosperity?style=social&label=Code+Stars)](https://github.com/dubcyfor3/Prosperity)
 - ``HPCA 2025`` Zihan Liu, Xinhao Luo, Junxian Guo, Wentao Ni, Yangjie Zhou, Yue Guan, **Cong Guo**, Weihao Cui, Yu Feng, Minyi Guo, Yuhao Zhu, Minjia Zhang, Jingwen Leng, Chen Jin; [VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference](https://arxiv.org/abs/2503.02236). 

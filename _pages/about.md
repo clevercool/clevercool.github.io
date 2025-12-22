@@ -30,22 +30,37 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-I am currently a postdoctoral associate at Duke University, working with Prof. Yiran Chen and Prof. Hai (Helen) Li. I obtained the Ph.D. degree from the Department of Computer Science and Engineering (CSE) at Shanghai Jiao Tong University in September 2023, under the supervision of Prof. Jingwen Leng. My research interests include computer architecture and high-performance computing. I have published more than 10 papers at international conferences with a total of  Google Scholar <a href='https://scholar.google.com/citations?user=sp5VwJoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
+I am a Postdoctoral Associate in the Department of Electrical and Computer Engineering at Duke University, working with Prof. **Yiran Chen** and Prof. **Hai (Helen) Li** on hardware–software co-design and next-generation computing systems. My research focuses on **computer architecture and accelerator design for efficient machine learning and data-intensive workloads**, including **sparsity- and quantization-aware architectures**, as well as **energy-efficient hardware for deep learning systems**. I develop novel architectural techniques to bridge the gap between emerging algorithmic models and scalable hardware, with applications ranging from **large-scale model acceleration** to **neural network processors** and **high-performance matrix multiplication architectures**.
+
+I received my Ph.D. degree in Computer Science and Engineering from **Shanghai Jiao Tong University** under the supervision of Prof. **Jingwen Leng** in September 2023. My research has been published at top-tier computer architecture conferences, including **ISCA**, **MICRO**, **HPCA**, and **ASPLOS**, with an up-to-date publication and citation record available on my [Google Scholar](https://scholar.google.com/citations?user=sp5VwJoAAAAJ) <a href='https://scholar.google.com/citations?user=sp5VwJoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉🎉  Three papers are accepted by **ISCA 2025**.
-- *2024.11*: &nbsp;🎉  Three papers are accepted by **HPCA 2025**.
-- *2024.03*: &nbsp;🎉  I received the 2023 Shanghai Jiao Tong University **Outstanding Doctoral Dissertation Award**, [15 winners (<1%) per year.](https://www.gs.sjtu.edu.cn/yxbslw) ([2023年度上海交通大学优秀博士学位论文，全校共15人](https://www.gs.sjtu.edu.cn/yxbslw)).
-- *2023.11*: &nbsp;🎉  Two papers are accepted by **ASPLOS 2024**.
+- *2025.11*: &nbsp;🎉🎉 Two papers were accepted to **HPCA 2026**.
+- *2025.10*: &nbsp;🎉 Nominated for the **2025 Outstanding Postdoc Award at Duke University**.
+- *2025.09*: &nbsp;🎉 One paper was accepted to **ASP-DAC 2026**.
+- *2025.03*: &nbsp;🎉🎉🎉 Three papers were accepted to **ISCA 2025**.
+- *2024.11*: &nbsp;🎉🎉🎉 Three papers were accepted to **HPCA 2025**.
+- *2024.03*: &nbsp;🎉 I received the **2023 Shanghai Jiao Tong University [Outstanding Doctoral Dissertation Award**](https://www.gs.sjtu.edu.cn/yxbslw) (15 recipients university-wide, <1% per year; [2023年度上海交通大学优秀博士学位论文，全校共15人](https://www.gs.sjtu.edu.cn/yxbslw)).
+- *2023.11*: &nbsp;🎉 Two papers were accepted to **ASPLOS 2024**.
   
 # 📝 Publications 
 ### Conference:
-- ``ISCA 2025`` **Cong Guo**\*, Chiyue Wei, Jiaming Tang, Bowen Duan, Song Han, Hai Li, Yiran Chen; Transitive Array: An Efficient GEMM Accelerator with Result Reuse. (\*Corresponding Author)
+
+- ``HPCA 2026`` Chiyue Wei=, **Cong Guo**=\*, Junyao Zhang, Haoxuan Shan, Yifan Xu, Ziyue Zhang, Yudong Liu, Qinsi Wang, Changchun Zhou, Hai "Helen" Li, Yiran Chen; [Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models](https://arxiv.org/abs/2512.14661). (=Equal Contribution, \* Corresponding Author)
+[![](https://img.shields.io/github/stars/dubcyfor3/Focus?style=social&label=Code+Stars)](https://github.com/dubcyfor3/Focus)
+
+- ``HPCA 2026`` Yuzhe Fu, Changchun Zhou\*, Hancheng Ye, Bowen Duan, Qiyu Huang, Chiyue Wei, **Cong Guo**\*, Hai "Helen'' Li, Yiran Chen; [FractalCloud: A Fractal-Inspired Architecture for Efficient Large-Scale Point Cloud Processing](https://arxiv.org/abs/2511.07665). (\*Corresponding Author)
+[![](https://img.shields.io/github/stars/Yuzhe-Fu/FractalCloud?style=social&label=Code+Stars)](https://github.com/Yuzhe-Fu/FractalCloud)
+
+
+- ``ASP-DAC 2026`` Haoxuan Shan, **Cong Guo**\*, Chiyue Wei, Feng Cheng, Junyao Zhang, Hai "Helen'' Li, Yiran Chen; [Platinum: Path-Adaptable LUT-Based Accelerator Tailored for Low-Bit Weight Matrix Multiplication](https://arxiv.org/abs/2511.21910). (\*Corresponding Author)
+
+- ``ISCA 2025`` **Cong Guo**\*, Chiyue Wei, Jiaming Tang, Bowen Duan, Song Han, Hai Li, Yiran Chen; [Transitive Array: An Efficient GEMM Accelerator with Result Reuse](https://arxiv.org/abs/2504.16339). (\*Corresponding Author)
 <!-- [![](https://img.shields.io/github/stars/dubcyfor3/Prosperity?style=social&label=Code+Stars)](https://github.com/dubcyfor3/Prosperity) -->
-- ``ISCA 2025`` Chiyue Wei, Bowen Duan, **Cong Guo**\*, Jingyang Zhang, Qingyue Song, Hai Li, Yiran Chen; Phi: Leveraging Pattern-based Hierarchical Sparsity for High-Efficiency Spiking Neural Networks. (\*Corresponding Author)
+- ``ISCA 2025`` Chiyue Wei, Bowen Duan, **Cong Guo**\*, Jingyang Zhang, Qingyue Song, Hai Li, Yiran Chen; [Phi: Leveraging Pattern-based Hierarchical Sparsity for High-Efficiency Spiking Neural Networks](https://arxiv.org/abs/2505.10909). (\*Corresponding Author)
 <!-- [![](https://img.shields.io/github/stars/dubcyfor3/Prosperity?style=social&label=Code+Stars)](https://github.com/dubcyfor3/Prosperity) -->
-- ``ISCA 2025`` Feng Cheng, **Cong Guo**\*, Chiyue Wei, Junyao Zhang, Changchun Zhou, Edward Hanson, Jiaqi Zhang, Xiaoxiao Liu, Hai Li, Yiran Chen; Ecco: Improving Memory Bandwidth and Capacity for LLMs via Entropy-aware Cache Compression. (\*Corresponding Author)
+- ``ISCA 2025`` Feng Cheng, **Cong Guo**\*, Chiyue Wei, Junyao Zhang, Changchun Zhou, Edward Hanson, Jiaqi Zhang, Xiaoxiao Liu, Hai Li, Yiran Chen; [Ecco: Improving Memory Bandwidth and Capacity for LLMs via Entropy-aware Cache Compression](https://arxiv.org/abs/2505.06901). (\*Corresponding Author)
 <!-- [![](https://img.shields.io/github/stars/dubcyfor3/Prosperity?style=social&label=Code+Stars)](https://github.com/dubcyfor3/Prosperity) -->
 - ``HPCA 2025`` Chiyue Wei, **Cong Guo**\*, Feng Cheng, Shiyu Li, Hao Yang, Hai Li, Yiran Chen; [Prosperity: Accelerating Spiking Neural Networks via Product Sparsity](https://arxiv.org/abs/2503.03379). (\*Corresponding Author)
 [![](https://img.shields.io/github/stars/dubcyfor3/Prosperity?style=social&label=Code+Stars)](https://github.com/dubcyfor3/Prosperity)
@@ -81,8 +96,9 @@ I am currently a postdoctoral associate at Duke University, working with Prof. Y
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🏆 Honors and Awards
+- *2025.10* Nominee for the 2025 Outstanding Postdoctoral Award (24 nominees university-wide), Duke University 
 <!-- - *2024.05* [OlympusMons Awards 2023](https://e.huawei.com/en/topic/storage/olympus-mons-awards-2023) -->
-- *2024.03* [Outstanding Doctoral Dissertation Award](https://www.gs.sjtu.edu.cn/yxbslw), Shanghai Jiao Tong University
+- *2024.03* [Outstanding Doctoral Dissertation Award](https://www.gs.sjtu.edu.cn/yxbslw) (15 recipients university-wide), Shanghai Jiao Tong University
 - *2023.07* [IEEE Micro Top Picks from 2022 Computer Architecture Conferences Honorable Mention](https://www.computer.org/csdl/magazine/mi/2023/04/10167515/1OjMSZbXMas)
 - *2023.06* Outstanding Doctoral Graduates, Shanghai Jiao Tong University
 - *2022.08* Excellent Ph.D. Scholarship of Yang Yuanqing Education Fund (Top-3/500+), Shanghai Jiao Tong University
@@ -92,14 +108,20 @@ I am currently a postdoctoral associate at Duke University, working with Prof. Y
 - *2017.11* National Second Prize, The 14th China Post-Graduate Mathematical Contest in Modeling
 
 # 👔 Academic Service
-Journal Reviewer:
- - IEEE Transactions on Computers (TC)
- - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
- - Science China Information Sciences (SCIS)
- - Transactions on Architecture and Code Optimization (TACO)
- - Transactions on Embedded Computing Systems (TECS)
- - IEEE Transactions on Very Large Scale Integration Systems (TVLSI)
- - IEEE Transactions on Circuits and Systems for Artificial Intelligence (TCASAI)
+
+**Journal Reviewer**
+- ACM Transactions on Embedded Computing Systems (**TECS**)
+- ACM Transactions on Architecture and Code Optimization (**TACO**)
+- IEEE Computer Architecture Letters (**CAL**)
+- IEEE Transactions on Computers (**TC**)
+- IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)
+- IEEE Transactions on Circuits and Systems for Artificial Intelligence (**TCASAI**)
+- IEEE Transactions on Very Large Scale Integration (VLSI) Systems (**TVLSI**)
+- Journal of Systems Architecture (**JSA**)
+- Science China Information Sciences (**SCIS**)
+
+**Conference Service**
+- Technical Program Committee (**TPC**) Member, **DAC 2026**
 
 # 💻 Experience
 

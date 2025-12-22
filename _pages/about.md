@@ -41,13 +41,13 @@ I received my Ph.D. degree in Computer Science and Engineering from **Shanghai J
 - *2025.09*: &nbsp;🎉 One paper was accepted to **ASP-DAC 2026**.
 - *2025.03*: &nbsp;🎉🎉🎉 Three papers were accepted to **ISCA 2025**.
 - *2024.11*: &nbsp;🎉🎉🎉 Three papers were accepted to **HPCA 2025**.
-- *2024.03*: &nbsp;🎉 I received the **2023 Shanghai Jiao Tong University [Outstanding Doctoral Dissertation Award**](https://www.gs.sjtu.edu.cn/yxbslw) (15 recipients university-wide, <1% per year; [2023年度上海交通大学优秀博士学位论文，全校共15人](https://www.gs.sjtu.edu.cn/yxbslw)).
-- *2023.11*: &nbsp;🎉 Two papers were accepted to **ASPLOS 2024**.
+- *2024.03*: &nbsp;🎉 I received the **2023 Shanghai Jiao Tong University [**Outstanding Doctoral Dissertation Award**](https://www.gs.sjtu.edu.cn/yxbslw?year_id=187#anchor) (15 recipients university-wide, <1% per year; 2023年度上海交通大学优秀博士学位论文，全校共15人).
+- *2023.11*: &nbsp;🎉🎉 Two papers were accepted to **ASPLOS 2024**.
   
 # 📝 Publications 
 ### Conference:
 
-- ``HPCA 2026`` Chiyue Wei=, **Cong Guo**=\*, Junyao Zhang, Haoxuan Shan, Yifan Xu, Ziyue Zhang, Yudong Liu, Qinsi Wang, Changchun Zhou, Hai "Helen" Li, Yiran Chen; [Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models](https://arxiv.org/abs/2512.14661). (=Equal Contribution, \* Corresponding Author)
+- ``HPCA 2026`` Chiyue Wei=, **Cong Guo**=\*, Junyao Zhang, Haoxuan Shan, Yifan Xu, Ziyue Zhang, Yudong Liu, Qinsi Wang, Changchun Zhou, Hai "Helen" Li, Yiran Chen; [Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models](https://arxiv.org/abs/2512.14661). (=Equal Contribution, \*Corresponding Author)
 [![](https://img.shields.io/github/stars/dubcyfor3/Focus?style=social&label=Code+Stars)](https://github.com/dubcyfor3/Focus)
 
 - ``HPCA 2026`` Yuzhe Fu, Changchun Zhou\*, Hancheng Ye, Bowen Duan, Qiyu Huang, Chiyue Wei, **Cong Guo**\*, Hai "Helen'' Li, Yiran Chen; [FractalCloud: A Fractal-Inspired Architecture for Efficient Large-Scale Point Cloud Processing](https://arxiv.org/abs/2511.07665). (\*Corresponding Author)

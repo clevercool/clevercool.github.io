@@ -36,19 +36,21 @@ I received my Ph.D. degree in Computer Science and Engineering from **Shanghai J
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🔥 Our HPCA 2026 paper (*Focus*) was selected as one of four **Best Paper Candidates** (4/119 accepted).
 - *2025.11*: &nbsp;🎉🎉 Two papers were accepted to **HPCA 2026**.
 - *2025.10*: &nbsp;🎉 Nominated for the **2025 Outstanding Postdoc Award at Duke University**.
 - *2025.09*: &nbsp;🎉 One paper was accepted to **ASP-DAC 2026**.
 - *2025.03*: &nbsp;🎉🎉🎉 Three papers were accepted to **ISCA 2025**.
 - *2024.11*: &nbsp;🎉🎉🎉 Three papers were accepted to **HPCA 2025**.
-- *2024.03*: &nbsp;🎉 I received the **2023 Shanghai Jiao Tong University [**Outstanding Doctoral Dissertation Award**](https://www.gs.sjtu.edu.cn/yxbslw?year_id=187#anchor) (15 recipients university-wide, <1% per year; 2023年度上海交通大学优秀博士学位论文，全校共15人).
+- *2024.03*: &nbsp;🎉 I received the [**2023 Shanghai Jiao Tong University Outstanding Doctoral Dissertation Award**](https://www.gs.sjtu.edu.cn/yxbslw?year_id=187#anchor)  
+  (15 recipients university-wide, <1% per year; 2023年度上海交通大学优秀博士学位论文，全校共15人).
 - *2023.11*: &nbsp;🎉🎉 Two papers were accepted to **ASPLOS 2024**.
   
 # 📝 Publications 
 ### Conference:
 
 - ``HPCA 2026`` Chiyue Wei=, **Cong Guo**=\*, Junyao Zhang, Haoxuan Shan, Yifan Xu, Ziyue Zhang, Yudong Liu, Qinsi Wang, Changchun Zhou, Hai "Helen" Li, Yiran Chen; [Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models](https://arxiv.org/abs/2512.14661). (=Equal Contribution, \*Corresponding Author)
-[![](https://img.shields.io/github/stars/dubcyfor3/Focus?style=social&label=Code+Stars)](https://github.com/dubcyfor3/Focus)
+[![](https://img.shields.io/github/stars/dubcyfor3/Focus?style=social&label=Code+Stars)](https://github.com/dubcyfor3/Focus) <span style="color:red">(Best Paper Candidate)</span> 
 
 - ``HPCA 2026`` Yuzhe Fu, Changchun Zhou\*, Hancheng Ye, Bowen Duan, Qiyu Huang, Chiyue Wei, **Cong Guo**\*, Hai "Helen'' Li, Yiran Chen; [FractalCloud: A Fractal-Inspired Architecture for Efficient Large-Scale Point Cloud Processing](https://arxiv.org/abs/2511.07665). (\*Corresponding Author)
 [![](https://img.shields.io/github/stars/Yuzhe-Fu/FractalCloud?style=social&label=Code+Stars)](https://github.com/Yuzhe-Fu/FractalCloud)
@@ -70,7 +72,7 @@ I received my Ph.D. degree in Computer Science and Engineering from **Shanghai J
 - ``ASPLOS 2024`` Zihan Liu, Wentao Ni, Jingwen Leng, Yu Feng, **Cong Guo**, Quan Chen, Chao Li, Minyi Guo, Yuhao Zhu; [JUNO: Optimizing High-Dimensional Approximate Nearest Neighbour Search with Sparsity-Aware Algorithm and Ray-Tracing Core Mapping](https://arxiv.org/abs/2312.01712). 
 - ``ISCA 2023`` **Cong Guo**, Jiaming Tang, Weiming Hu, Jingwen Leng, Chen Zhang, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu; [OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization](https://arxiv.org/abs/2304.07493). 
 [![](https://img.shields.io/github/stars/clevercool/ANT-Quantization?style=social&label=Code+Stars)](https://github.com/clevercool/ANT-Quantization)
-- ``MICRO 2022`` **Cong Guo**, Chen Zhang, Jingwen Leng, Zihan Liu, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu; [ANT: Exploiting Adaptive Numerical Data Type for Low-bit Deep Neural Network Quantization](https://arxiv.org/abs/2208.14286). [![](https://img.shields.io/github/stars/clevercool/ANT-Quantization?style=social&label=Code+Stars)](https://github.com/clevercool/ANT-Quantization) <span style="color:red">(2023 IEEE Micro Top Picks Honorable Mention)</span> 
+- ``MICRO 2022`` **Cong Guo**, Chen Zhang, Jingwen Leng, Zihan Liu, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu; [ANT: Exploiting Adaptive Numerical Data Type for Low-bit Deep Neural Network Quantization](https://arxiv.org/abs/2208.14286). [![](https://img.shields.io/github/stars/clevercool/ANT-Quantization?style=social&label=Code+Stars)](https://github.com/clevercool/ANT-Quantization) <span style="color:red">(2022 IEEE Micro Top Picks Honorable Mention)</span> 
 
 - ``ICLR 2022`` **Cong Guo**, Yuxian Qiu, Jingwen Leng, Xiaotian Gao, Chen Zhang, Yunxin Liu, Fan Yang, Yuhao Zhu, Minyi Guo; [SQuant: On-the-Fly Data-Free Quantization via Diagonal Hessian Approximation](https://arxiv.org/abs/2202.07471). [![](https://img.shields.io/github/stars/clevercool/SQuant?style=social&label=Code+Stars)](https://github.com/clevercool/SQuant)
 - ``ICCD 2022`` **Cong Guo**, Yuxian Qiu, Jingwen Leng, Chen Zhang, Ying Cao, Quanlu Zhang, Yunxin Liu, Fan Yang, Minyi Guo; [Nesting Forward Automatic Differentiation for Memory-Efficient Deep Neural Network Training](https://arxiv.org/abs/2209.10778). 
@@ -96,10 +98,11 @@ I received my Ph.D. degree in Computer Science and Engineering from **Shanghai J
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🏆 Honors and Awards
+- *2026.01* **HPCA 2026 Best Paper Candidate** 
 - *2025.10* Nominee for the 2025 Outstanding Postdoctoral Award (24 nominees university-wide), Duke University 
 <!-- - *2024.05* [OlympusMons Awards 2023](https://e.huawei.com/en/topic/storage/olympus-mons-awards-2023) -->
-- *2024.03* [Outstanding Doctoral Dissertation Award](https://www.gs.sjtu.edu.cn/yxbslw) (15 recipients university-wide), Shanghai Jiao Tong University
-- *2023.07* [IEEE Micro Top Picks from 2022 Computer Architecture Conferences Honorable Mention](https://www.computer.org/csdl/magazine/mi/2023/04/10167515/1OjMSZbXMas)
+- *2024.03* [**Outstanding Doctoral Dissertation Award**](https://www.gs.sjtu.edu.cn/yxbslw) (15 recipients university-wide), Shanghai Jiao Tong University
+- *2023.07* [**IEEE Micro Top Picks from 2022 Computer Architecture Conferences Honorable Mention**](https://www.computer.org/csdl/magazine/mi/2023/04/10167515/1OjMSZbXMas)
 - *2023.06* Outstanding Doctoral Graduates, Shanghai Jiao Tong University
 - *2022.08* Excellent Ph.D. Scholarship of Yang Yuanqing Education Fund (Top-3/500+), Shanghai Jiao Tong University
 - *2020.11* Ph.D. National Scholarship (Top-8/500+), Ministry of Education, PRC

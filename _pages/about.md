@@ -44,6 +44,27 @@ I received my Ph.D. in Computer Science and Engineering from **Shanghai Jiao Ton
   (15 recipients university-wide, <1% per year; 2023年度上海交通大学优秀博士学位论文，全校共15人).
 - *2023.11*: &nbsp;🎉🎉 Two papers were accepted to **ASPLOS 2024**.
   
+
+# 💻 Experience
+
+- *2023.12 - Now*, Postdoctoral associate, Department of ECE, Duke University.
+- *2021.06 - 2023.12*, Research intern, Shanghai Qi Zhi Institute.  
+- *2023.04 - 2023.09*, Reaserch intern, ANT Group (AliPay).
+- *2020.06 - 2021.05*, Research intern, Microsoft Research Asia (Beijing).  
+- *2019.05 - 2019.12*, Intern, NVIDIA (Shanghai).
+  
+<!-- - Project 1: Design a Dual-side Sparse Tensor Core to support dual-side sparse matrix multiplication. Published in ISCA 2021.
+- Project 2: Design a low-precision cache compression approach for accelerating DNN training and inference. Published in
+ICCD 2022.
+- Project 3: Design a new adaptive numerical data type for low-bit DNN quantization. Published in Micro 2022.
+- Project 4: Design an on-the-fly data-free quantization method to significantly improve the model accuracy and accelerate the quantization processing. Published in ICLR 2022. -->
+  
+  
+<!-- - Intern: NVIDIA (Shanghai) May 2019 - Dec. 2019
+  - Design a structured sparse pruning method according to the characteristics of the neural network;
+  - Efficiently implements the structured pruning method on the GPU Tensor Core to accelerate the inference stage of the neural network. Published in SC 2020. -->
+  
+  
 # 📝 Publications 
 ### Conference:
 
@@ -124,25 +145,6 @@ I received my Ph.D. in Computer Science and Engineering from **Shanghai Jiao Ton
 **Conference Service**
 - Technical Program Committee (**TPC**) Member, **DAC 2026**
 
-# 💻 Experience
-
-- *2023.12 - Now*, Postdoctoral associate, Department of ECE, Duke University.
-- *2021.06 - 2023.12*, Research intern, Shanghai Qi Zhi Institute.  
-- *2023.04 - 2023.09*, Reaserch intern, ANT Group (AliPay).
-- *2020.06 - 2021.05*, Research intern, Microsoft Research Asia (Beijing).  
-- *2019.05 - 2019.12*, Intern, NVIDIA (Shanghai).
-  
-<!-- - Project 1: Design a Dual-side Sparse Tensor Core to support dual-side sparse matrix multiplication. Published in ISCA 2021.
-- Project 2: Design a low-precision cache compression approach for accelerating DNN training and inference. Published in
-ICCD 2022.
-- Project 3: Design a new adaptive numerical data type for low-bit DNN quantization. Published in Micro 2022.
-- Project 4: Design an on-the-fly data-free quantization method to significantly improve the model accuracy and accelerate the quantization processing. Published in ICLR 2022. -->
-  
-  
-<!-- - Intern: NVIDIA (Shanghai) May 2019 - Dec. 2019
-  - Design a structured sparse pruning method according to the characteristics of the neural network;
-  - Efficiently implements the structured pruning method on the GPU Tensor Core to accelerate the inference stage of the neural network. Published in SC 2020. -->
-  
 
 # 📖 Educations
 - *2020.09 - 2023.09*, Ph.D in Computer Science, Department of Computer Science and Engineering, Shanghai Jiao Tong University.

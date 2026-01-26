@@ -34,6 +34,7 @@ I am a Postdoctoral Associate in the Department of Electrical and Computer Engin
 
 I received my Ph.D. in Computer Science and Engineering from **Shanghai Jiao Tong University** in September 2023, advised by Prof. **Jingwen Leng**. My work has been published at leading computer architecture venues, including **ISCA**, **MICRO**, **HPCA**, and **ASPLOS**. An up-to-date publication and citation record is available on my [Google Scholar](https://scholar.google.com/citations?user=sp5VwJoAAAAJ) <a href='https://scholar.google.com/citations?user=sp5VwJoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 # 🔥 News
+- *2026.01*: &nbsp;🎉 One paper was accepted to **ICLR 2026**.
 - *2026.01*: &nbsp;🔥 Our HPCA 2026 paper (*Focus*) was selected as one of four **Best Paper Candidates** (4/119 accepted).
 - *2025.11*: &nbsp;🎉🎉 Two papers were accepted to **HPCA 2026**.
 - *2025.10*: &nbsp;🎉 Nominated for the **2025 Outstanding Postdoc Award at Duke University**.
@@ -67,6 +68,9 @@ ICCD 2022.
   
 # 📝 Publications 
 ### Conference:
+
+- ``ICLR 2026`` Xinhua Chen=, Sitao Huang=, **Cong Guo**=\*, Chiyue Wei, Yintao He, Jianyi Zhang, Hai "Helen" Li, Yiran Chen; [DPad: Efficient Diffusion Language Models with Suffix Dropout](https://arxiv.org/abs/2508.14148). (=Equal Contribution, \*Corresponding Author)
+[![](https://img.shields.io/github/stars/Crys-Chen/DPad?style=social&label=Code+Stars)](https://github.com/Crys-Chen/DPad)
 
 - ``HPCA 2026`` Chiyue Wei=, **Cong Guo**=\*, Junyao Zhang, Haoxuan Shan, Yifan Xu, Ziyue Zhang, Yudong Liu, Qinsi Wang, Changchun Zhou, Hai "Helen" Li, Yiran Chen; [Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models](https://arxiv.org/abs/2512.14661). (=Equal Contribution, \*Corresponding Author)
 [![](https://img.shields.io/github/stars/dubcyfor3/Focus?style=social&label=Code+Stars)](https://github.com/dubcyfor3/Focus) <span style="color:red">(Best Paper Candidate)</span> 

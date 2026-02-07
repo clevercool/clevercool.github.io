@@ -35,7 +35,7 @@ I am a Postdoctoral Associate in the Department of Electrical and Computer Engin
 I received my Ph.D. in Computer Science and Engineering from **Shanghai Jiao Tong University** in September 2023, advised by Prof. **Jingwen Leng**. My work has been published at leading computer architecture venues, including **ISCA**, **MICRO**, **HPCA**, and **ASPLOS**. An up-to-date publication and citation record is available on my [Google Scholar](https://scholar.google.com/citations?user=sp5VwJoAAAAJ) <a href='https://scholar.google.com/citations?user=sp5VwJoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 # 🔥 News
 - *2026.01*: &nbsp;🎉 One paper was accepted to **ICLR 2026**.
-- *2026.01*: &nbsp;🔥 Our HPCA 2026 paper (*Focus*) was selected as one of four **Best Paper Candidates** (4/119 accepted).
+- *2026.01*: &nbsp;🔥 Our HPCA 2026 paper (*Focus*) was **nominated** for Best Paper (one of four nominees, 4/119 accepted).
 - *2025.11*: &nbsp;🎉🎉 Two papers were accepted to **HPCA 2026**.
 - *2025.10*: &nbsp;🎉 Nominated for the **2025 Outstanding Postdoc Award at Duke University**.
 - *2025.09*: &nbsp;🎉 One paper was accepted to **ASP-DAC 2026**.
@@ -73,7 +73,7 @@ ICCD 2022.
 [![](https://img.shields.io/github/stars/Crys-Chen/DPad?style=social&label=Code+Stars)](https://github.com/Crys-Chen/DPad)
 
 - ``HPCA 2026`` Chiyue Wei=, **Cong Guo**=\*, Junyao Zhang, Haoxuan Shan, Yifan Xu, Ziyue Zhang, Yudong Liu, Qinsi Wang, Changchun Zhou, Hai "Helen" Li, Yiran Chen; [Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models](https://arxiv.org/abs/2512.14661). (=Equal Contribution, \*Corresponding Author)
-[![](https://img.shields.io/github/stars/dubcyfor3/Focus?style=social&label=Code+Stars)](https://github.com/dubcyfor3/Focus) <span style="color:red">(Best Paper Candidate)</span> 
+[![](https://img.shields.io/github/stars/dubcyfor3/Focus?style=social&label=Code+Stars)](https://github.com/dubcyfor3/Focus) <span style="color:red">(Best Paper Nomination)</span> 
 
 - ``HPCA 2026`` Yuzhe Fu, Changchun Zhou\*, Hancheng Ye, Bowen Duan, Qiyu Huang, Chiyue Wei, **Cong Guo**\*, Hai "Helen'' Li, Yiran Chen; [FractalCloud: A Fractal-Inspired Architecture for Efficient Large-Scale Point Cloud Processing](https://arxiv.org/abs/2511.07665). (\*Corresponding Author)
 [![](https://img.shields.io/github/stars/Yuzhe-Fu/FractalCloud?style=social&label=Code+Stars)](https://github.com/Yuzhe-Fu/FractalCloud)
@@ -121,7 +121,7 @@ ICCD 2022.
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🏆 Honors and Awards
-- *2026.01* **HPCA 2026 Best Paper Candidate** 
+- *2026.01* **HPCA 2026 Best Paper Nomination** 
 - *2025.10* Nominee for the 2025 Outstanding Postdoctoral Award (24 nominees university-wide), Duke University 
 <!-- - *2024.05* [OlympusMons Awards 2023](https://e.huawei.com/en/topic/storage/olympus-mons-awards-2023) -->
 - *2024.03* [**Outstanding Doctoral Dissertation Award**](https://www.gs.sjtu.edu.cn/yxbslw) (15 recipients university-wide), Shanghai Jiao Tong University

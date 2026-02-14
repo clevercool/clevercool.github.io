@@ -30,9 +30,17 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-I am a Postdoctoral Associate in the Department of Electrical and Computer Engineering at Duke University, working with Prof. **Yiran Chen** and Prof. **Hai (Helen) Li**. My research focuses on **computer architecture and system design for efficient machine learning**, with an emphasis on **hardware–software co-design**, **sparsity- and quantization-aware architectures**, and **energy-efficient deep learning systems**.
+I am a Postdoctoral Associate in the Department of Electrical and Computer Engineering at Duke University, working with Prof. Yiran Chen and Prof. Hai (Helen) Li. I received my Ph.D. in Computer Science from Shanghai Jiao Tong University in 2023, supervised by Prof. Jingwen Leng.
 
-I received my Ph.D. in Computer Science and Engineering from **Shanghai Jiao Tong University** in September 2023, advised by Prof. **Jingwen Leng**. My work has been published at leading computer architecture venues, including **ISCA**, **MICRO**, **HPCA**, and **ASPLOS**. An up-to-date publication and citation record is available on my [Google Scholar](https://scholar.google.com/citations?user=sp5VwJoAAAAJ) <a href='https://scholar.google.com/citations?user=sp5VwJoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+<br>
+
+My research focuses on computer architecture, especially scalable hardware–software co-design for efficient AI systems. I have developed sparsity- and quantization-aware architectures for model compression and overall efficiency. Recently, I have been exploring architectural designs tailored for large language models (LLMs).
+
+<br>
+
+Over the past five years, I have published 14 papers at the four flagship computer architecture conferences (ISCA, MICRO, HPCA, and ASPLOS), among which 9 are first- or corresponding-author publications (ISCA ×4, HPCA ×3, ASPLOS ×1, MICRO ×1). My work has received an **HPCA 2026 Best Paper Nomination** and was selected as an **IEEE 2022 Micro Top Pick (Honorable Mention)**.
+An up-to-date publication and citation record is available on my [Google Scholar](https://scholar.google.com/citations?user=sp5VwJoAAAAJ) <a href='https://scholar.google.com/citations?user=sp5VwJoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+
 # 🔥 News
 - *2026.01*: &nbsp;🎉 One paper was accepted to **ICLR 2026**.
 - *2026.01*: &nbsp;🔥 Our HPCA 2026 paper (*Focus*) was **nominated** for Best Paper (one of four nominees, 4/119 accepted).

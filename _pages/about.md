@@ -60,7 +60,7 @@ An up-to-date publication and citation record is available on my [Google Scholar
 
 - *2023.12 - Now*, Postdoctoral associate, Department of ECE, Duke University.
 - *2021.06 - 2023.12*, Research intern, Shanghai Qi Zhi Institute.  
-- *2023.04 - 2023.09*, Reaserch intern, ANT Group (AliPay).
+- *2023.04 - 2023.09*, Research intern, ANT Group (AliPay).
 - *2020.06 - 2021.05*, Research intern, Microsoft Research Asia (Beijing).  
 - *2019.05 - 2019.12*, Intern, NVIDIA (Shanghai).
   
@@ -127,11 +127,11 @@ ICCD 2022.
 
 ## Collaborative Publications
 
-**[19]** ``ASPLOS 2026`` Weiming Hu, Zihan Zhang, Haoyan Zhang, Chen Zhang, **Cong Guo**, Yu Feng, Tianchi Hu, Guanglin Li, Guipeng Hu, Junsong Wang, Jingwen Leng; [M2XFP: A Metadata-Augmented Microscaling Data Format for Efficient Low-bit Quantization](https://arxiv.org/abs/2508.14148). In Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2026. <span style="color:red">(Best Paper Nomination)</span>
+**[19]** ``ASPLOS 2026`` Weiming Hu, Zihan Zhang, Haoyan Zhang, Chen Zhang, **Cong Guo**, Yu Feng, Tianchi Hu, Guanglin Li, Guipeng Hu, Junsong Wang, Jingwen Leng; [M2XFP: A Metadata-Augmented Microscaling Data Format for Efficient Low-bit Quantization](https://arxiv.org/abs/2601.19213). In Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2026. <span style="color:red">(Best Paper Nomination)</span>
 
 **[20]** ``SC 2025`` Yangjie Zhou, Honglin Zhu, Qian Qiu, Weihao Cui, Zihan Liu, Peng Chen, Mohamed Wahib, **Cong Guo**, Siyuan Feng, Jintao Meng, Haidong Lan, Jingwen Leng, Yun Lin, Jin Song Dong, Wenxi Zhu, Minwen Deng; [A Sample-Free Compilation Framework for Efficient Dynamic Tensor Computation](https://arxiv.org/abs/2508.14148). In International Conference for High Performance Computing, Networking, Storage and Analysis (SC), 2025.
 
-**[21]** ``IEEE TCAD 2025`` Yangjie Zhou, Zhihui Zhang, Shuwen Lu, **Cong Guo**, Jingwen Leng, Feng Zhang, Yufei Ma, Yun Liang, Minyi Guo; [A Full-Stack Framework for GNN Acceleration via Partition-Compiler-Architecture Co-Design](https://ieeexplore.ieee.org/abstract/document/10709841). In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
+**[21]** ``IEEE TCAD 2025`` Yangjie Zhou, Zhihui Zhang, Shuwen Lu, **Cong Guo**, Jingwen Leng, Feng Zhang, Yufei Ma, Yun Liang, Minyi Guo; [A Full-Stack Framework for GNN Acceleration via Partition-Compiler-Architecture Co-Design](https://ieeexplore.ieee.org/document/11165431). In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
 
 **[22]** ``HPCA 2025`` Zihan Liu, Xinhao Luo, Junxian Guo, Wentao Ni, Yangjie Zhou, Yue Guan, **Cong Guo**, Weihao Cui, Yu Feng, Minyi Guo, Yuhao Zhu, Minjia Zhang, Jingwen Leng, Chen Jin; [VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference](https://arxiv.org/abs/2503.02236). In IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2025. 
 

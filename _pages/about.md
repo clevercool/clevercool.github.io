@@ -83,7 +83,8 @@ ICCD 2022.
 ## Selected Publications
 <small>*: Corresponding Author; =: Equal Contribution</small>
 
-**[1]** ``ISCA 2026`` Bowen Duan=, **Cong Guo**=\*, Chiyue Wei, Haoxuan Shan, Yuzhe Fu, Xinhua Chen, Yifan Xu, Ziyue Zhang, Changchun Zhou, Hai "Helen" Li, Yiran Chen; EVA: Accelerating LLM Decoding via an Efficient Vector Quantization Architecture. In International Symposium on Computer Architecture (ISCA), 2026.
+**[1]** ``ISCA 2026`` Bowen Duan=, **Cong Guo**=\*, Chiyue Wei, Haoxuan Shan, Yuzhe Fu, Xinhua Chen, Yifan Xu, Ziyue Zhang, Changchun Zhou, Hai "Helen" Li, Yiran Chen; [EVA: Accelerating LLM Decoding via an Efficient Vector Quantization Architecture](https://arxiv.org/abs/2605.24144). In International Symposium on Computer Architecture (ISCA), 2026.
+[![](https://img.shields.io/github/stars/dbw6/Eva?style=social&label=Code+Stars)](https://github.com/dbw6/Eva)
 
 **[2]** ``ICLR 2026`` Xinhua Chen=, Sitao Huang=, **Cong Guo**=\*, Chiyue Wei, Yintao He, Jianyi Zhang, Hai "Helen" Li, Yiran Chen; [DPad: Efficient Diffusion Language Models with Suffix Dropout](https://arxiv.org/abs/2508.14148). In International Conference on Learning Representations (ICLR), 2026.
 [![](https://img.shields.io/github/stars/Crys-Chen/DPad?style=social&label=Code+Stars)](https://github.com/Crys-Chen/DPad)

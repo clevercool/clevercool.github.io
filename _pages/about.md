@@ -129,7 +129,7 @@ ICCD 2022.
 
 **[19]** ``ASPLOS 2026`` Weiming Hu, Zihan Zhang, Haoyan Zhang, Chen Zhang, **Cong Guo**, Yu Feng, Tianchi Hu, Guanglin Li, Guipeng Hu, Junsong Wang, Jingwen Leng; [M2XFP: A Metadata-Augmented Microscaling Data Format for Efficient Low-bit Quantization](https://arxiv.org/abs/2601.19213). In Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2026. <span style="color:red">(Best Paper Nomination)</span>
 
-**[20]** ``SC 2025`` Yangjie Zhou, Honglin Zhu, Qian Qiu, Weihao Cui, Zihan Liu, Peng Chen, Mohamed Wahib, **Cong Guo**, Siyuan Feng, Jintao Meng, Haidong Lan, Jingwen Leng, Yun Lin, Jin Song Dong, Wenxi Zhu, Minwen Deng; [A Sample-Free Compilation Framework for Efficient Dynamic Tensor Computation](https://arxiv.org/abs/2508.14148). In International Conference for High Performance Computing, Networking, Storage and Analysis (SC), 2025.
+**[20]** ``SC 2025`` Yangjie Zhou, Honglin Zhu, Qian Qiu, Weihao Cui, Zihan Liu, Peng Chen, Mohamed Wahib, **Cong Guo**, Siyuan Feng, Jintao Meng, Haidong Lan, Jingwen Leng, Yun Lin, Jin Song Dong, Wenxi Zhu, Minwen Deng; [A Sample-Free Compilation Framework for Efficient Dynamic Tensor Computation](https://dl.acm.org/doi/10.1145/3712285.3759779). In International Conference for High Performance Computing, Networking, Storage and Analysis (SC), 2025.
 
 **[21]** ``IEEE TCAD 2025`` Yangjie Zhou, Zhihui Zhang, Shuwen Lu, **Cong Guo**, Jingwen Leng, Feng Zhang, Yufei Ma, Yun Liang, Minyi Guo; [A Full-Stack Framework for GNN Acceleration via Partition-Compiler-Architecture Co-Design](https://ieeexplore.ieee.org/document/11165431). In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
 
@@ -137,7 +137,7 @@ ICCD 2022.
 
 **[23]** ``HPCA 2025`` Weiming Hu, Haoyan Zhang, **Cong Guo**, Yu Feng, Renyang Guan, Zhendong Hua, Zihan Liu, Yue Guan, Minyi Guo, Jingwen Leng; [MANT: Efficient Low-bit Group Quantization for LLMs via Mathematically Adaptive Numerical Type](https://arxiv.org/abs/2502.18755). In IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2025.
 
-**[24]** ``ICCV 2025`` Linshen Liu, Boyan Su, Junyue Jiang, Guanlin Wu, **Cong Guo**, Ceyu Xu, Hao Frank Yang; [Towards Accurate and Efficient 3D Object Detection for Autonomous Driving: A Mixture of Experts Computing System on Edge](https://arxiv.org/abs/2508.14148). In International Conference on Computer Vision (ICCV), 2025.
+**[24]** ``ICCV 2025`` Linshen Liu, Boyan Su, Junyue Jiang, Guanlin Wu, **Cong Guo**, Ceyu Xu, Hao Frank Yang; [Towards Accurate and Efficient 3D Object Detection for Autonomous Driving: A Mixture of Experts Computing System on Edge](https://arxiv.org/abs/2507.04123). In International Conference on Computer Vision (ICCV), 2025.
 
 **[25]** ``ASPLOS 2024`` Zihan Liu, Wentao Ni, Jingwen Leng, Yu Feng, **Cong Guo**, Quan Chen, Chao Li, Minyi Guo, Yuhao Zhu; [JUNO: Optimizing High-Dimensional Approximate Nearest Neighbour Search with Sparsity-Aware Algorithm and Ray-Tracing Core Mapping](https://arxiv.org/abs/2312.01712). In Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2024. 
 

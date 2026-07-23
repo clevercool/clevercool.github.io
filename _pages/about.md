@@ -197,8 +197,14 @@ ICCD 2022.
 - Science China Information Sciences (**SCIS**)
 
 **Conference Service**
+- [Publicity Co-Chair](https://conf.researchr.org/committee/hpca-2027/hpca-2027-organizing-committee), **HPCA 2027**
+- Session Chair, **ISCA 2026**
+- Session Chair, **DAC 2026**
 - Technical Program Committee (**TPC**) Member, **DAC 2026**
 - Technical Program Committee (**TPC**) Member, **MICRO 2026**
+- Reviewer, **AAAI 2027**
+- Reviewer, **NeurIPS 2026**
+- Reviewer, **ICCV 2025**
 
 
 # 📖 Educations

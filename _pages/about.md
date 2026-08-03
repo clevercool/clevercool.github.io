@@ -18,6 +18,20 @@ redirect_from:
     float: left;
     font-weight: bold;
 }
+.contact-box{
+    background: #FFF6F6;
+    border: 1px solid #BD2A2E;
+    border-left: 5px solid #BD2A2E;
+    border-radius: 4px;
+    padding: 10px 14px;
+    margin: 0 0 1.2em 0;
+    font-size: 15px;
+    line-height: 1.6;
+}
+.contact-box a{
+    font-weight: bold;
+    word-break: break-word;
+}
 </style>
 
 <span class='anchor' id='about-me'></span>
@@ -29,6 +43,10 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+
+<div class="contact-box">
+📮 <b>Contact:</b> <a href="mailto:congguo.ai@gmail.com">congguo.ai@gmail.com</a> — please use this address for all correspondence. My previous institutional email is no longer in use.
+</div>
 
 I am a Postdoctoral Associate in the Department of Electrical and Computer Engineering at Duke University, working with Prof. Yiran Chen and Prof. Hai (Helen) Li. I received my Ph.D. in Computer Science from Shanghai Jiao Tong University in 2023, supervised by Prof. Jingwen Leng.
 

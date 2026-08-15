@@ -48,7 +48,7 @@ redirect_from:
 📮 <b>Contact:</b> <a href="mailto:congguo.ai@gmail.com">congguo.ai@gmail.com</a> — please use this address for all correspondence. My previous institutional email is no longer in use.
 </div>
 
-I am a Postdoctoral Associate in the Department of Electrical and Computer Engineering at Duke University, working with Prof. Yiran Chen and Prof. Hai (Helen) Li. I received my Ph.D. in Computer Science from Shanghai Jiao Tong University in 2023, supervised by Prof. Jingwen Leng.
+I am a Postdoctoral Researcher at **Meta** (Menlo Park, CA). Previously, I was a Postdoctoral Associate in the Department of Electrical and Computer Engineering at Duke University, working with Prof. Yiran Chen and Prof. Hai (Helen) Li. I received my Ph.D. in Computer Science from Shanghai Jiao Tong University in 2023, supervised by Prof. Jingwen Leng.
 
 <br>
 
@@ -60,6 +60,7 @@ Over the past five years, I have published 17 papers at the four flagship comput
 An up-to-date publication and citation record is available on my [Google Scholar](https://scholar.google.com/citations?user=sp5VwJoAAAAJ) <a href='https://scholar.google.com/citations?user=sp5VwJoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉 Joined [**Meta**](https://aisystemcodesign.github.io/) as a Postdoctoral Researcher (Menlo Park, CA)!
 - *2026.07*: &nbsp;🎉 One paper was conditionally accepted to **ASPLOS 2027**.
 - *2026.07*: &nbsp;🏛️ Serving as **Publicity Co-Chair** and **TPC Member** for [HPCA 2027](https://conf.researchr.org/committee/hpca-2027/hpca-2027-organizing-committee).
 - *2026.07*: &nbsp;🎉 One paper was accepted to **MICRO 2026**.
@@ -80,7 +81,8 @@ An up-to-date publication and citation record is available on my [Google Scholar
 
 # 💻 Experience
 
-- *2023.12 - Now*, Postdoctoral associate, Department of ECE, Duke University.
+- *2026.08 - Now*, Postdoctoral Researcher, [Meta](https://aisystemcodesign.github.io/), Menlo Park, CA.
+- *2023.12 - 2026.08*, Postdoctoral Associate, Duke University.
 - *2021.06 - 2023.12*, Research intern, Shanghai Qi Zhi Institute.  
 - *2023.04 - 2023.09*, Research intern, ANT Group (AliPay).
 - *2020.06 - 2021.05*, Research intern, Microsoft Research Asia (Beijing).  

@@ -60,6 +60,7 @@ Over the past five years, I have published 16 papers at the four flagship comput
 An up-to-date publication and citation record is available on my [Google Scholar](https://scholar.google.com/citations?user=sp5VwJoAAAAJ) <a href='https://scholar.google.com/citations?user=sp5VwJoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🔥 News
+- *2026.07*: &nbsp;🏛️ Serving as **Publicity Co-Chair** and **TPC Member** for [HPCA 2027](https://conf.researchr.org/committee/hpca-2027/hpca-2027-organizing-committee).
 - *2026.07*: &nbsp;🎉 One paper was accepted to **MICRO 2026**.
 - *2026.03*: &nbsp;🎉 One paper was accepted to **ISCA 2026**.
 - *2026.03*: &nbsp;🔥 Our ASPLOS 2026 paper (*M2XFP*) was **nominated** for Best Paper.
@@ -216,6 +217,7 @@ ICCD 2022.
 
 **Conference Service**
 - [Publicity Co-Chair](https://conf.researchr.org/committee/hpca-2027/hpca-2027-organizing-committee), **HPCA 2027**
+- Technical Program Committee (**TPC**) Member, **HPCA 2027**
 - Session Chair, **ISCA 2026**
 - Session Chair, **DAC 2026**
 - Technical Program Committee (**TPC**) Member, **DAC 2026**

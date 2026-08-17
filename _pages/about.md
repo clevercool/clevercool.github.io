@@ -107,7 +107,7 @@ ICCD 2022.
 ## Selected Publications
 <small>*: Corresponding Author; =: Equal Contribution</small>
 
-**[1]** ``ASPLOS 2027`` Haoxuan Shan, **Cong Guo**\*, Bowen Duan, Chiyue Wei, Feng Cheng, Yuzhe Fu, Yintao He, Hai "Helen" Li, Yiran Chen; Vortex: Bridging Extreme Compression and Efficient LLM Inference. In ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2027.
+<!-- **[1]** ``ASPLOS 2027`` Haoxuan Shan, **Cong Guo**\*, Bowen Duan, Chiyue Wei, Feng Cheng, Yuzhe Fu, Yintao He, Hai "Helen" Li, Yiran Chen; Vortex: Bridging Extreme Compression and Efficient LLM Inference. In ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2027. -->
 
 
 **[2]** ``MICRO 2026`` Feng Cheng, **Cong Guo**\*, Junyao Zhang, Haoxuan Shan, Chiyue Wei, Hong Wang, Hai "Helen" Li, Yiran Chen; Gossamer: A Utility-Driven Architecture for Constant-Budget KV Cache Compression in Reasoning LLMs. In IEEE/ACM International Symposium on Microarchitecture (MICRO), 2026.

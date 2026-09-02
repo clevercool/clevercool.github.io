@@ -43,10 +43,10 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-
+<!-- 
 <div class="contact-box">
 📮 <b>Contact:</b> <a href="mailto:congguo.ai@gmail.com">congguo.ai@gmail.com</a> — please use this address for all correspondence. My previous institutional email is no longer in use.
-</div>
+</div> -->
 
 I am a Postdoctoral Researcher at **Meta** (Menlo Park, CA). Previously, I was a Postdoctoral Associate in the Department of Electrical and Computer Engineering at Duke University, working with Prof. Yiran Chen and Prof. Hai (Helen) Li. I received my Ph.D. in Computer Science from Shanghai Jiao Tong University in 2023, supervised by Prof. Jingwen Leng.
 
@@ -57,7 +57,7 @@ My research focuses on computer architecture, especially scalable hardware–sof
 <br>
 
 Over the past five years, I have published 17 papers at the four flagship computer architecture conferences (ISCA, MICRO, HPCA, and ASPLOS), among which 12 are first- or corresponding-author publications (ISCA ×5, HPCA ×3, MICRO ×2, ASPLOS ×2). My work has received an **HPCA 2026 Best Paper Nomination**, an **ASPLOS 2026 Best Paper Nomination**, and was selected as an **IEEE 2022 Micro Top Pick (Honorable Mention)**.
-An up-to-date publication and citation record is available on my [Google Scholar](https://scholar.google.com/citations?user=sp5VwJoAAAAJ) <a href='https://scholar.google.com/citations?user=sp5VwJoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+An up-to-date publication and citation record is available on my [Google Scholar](https://scholar.google.com/citations?user=r3IEwrgAAAAJ) <a href='https://scholar.google.com/citations?user=r3IEwrgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🔥 News
 - *2026.08*: &nbsp;🎉 Joined [**Meta**](https://aisystemcodesign.github.io/) as a Postdoctoral Researcher (Menlo Park, CA)!
@@ -106,6 +106,10 @@ ICCD 2022.
 
 ## Selected Publications
 <small>*: Corresponding Author; =: Equal Contribution</small>
+
+
+<!-- **[1]** ``ASPLOS 2027`` Haoxuan Shan, **Cong Guo**\*, Bowen Duan, Chiyue Wei, Feng Cheng, Yuzhe Fu, Yintao He, Hai "Helen" Li, Yiran Chen; Vortex: Bridging Extreme Compression and Efficient LLM Inference. In ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2027. -->
+
 
 **[2]** ``MICRO 2026`` Feng Cheng, **Cong Guo**\*, Junyao Zhang, Haoxuan Shan, Chiyue Wei, Hong Wang, Hai "Helen" Li, Yiran Chen; Gossamer: A Utility-Driven Architecture for Constant-Budget KV Cache Compression in Reasoning LLMs. In IEEE/ACM International Symposium on Microarchitecture (MICRO), 2026.
 

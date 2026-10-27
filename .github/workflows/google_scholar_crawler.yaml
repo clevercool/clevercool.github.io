@@ -18,10 +18,12 @@ jobs:
       with:
         python-version: '3.11'
     - name: Run
+      shell: bash
       run: |
+        set -o pipefail
         cd ./google_scholar_crawler
-        pip install -r requirements.txt
-        python main.py
+        pip install -r requirements.txt 2>&1 | tee pip.log || { echo "::error title=pip failed::$(tail -n 5 pip.log | tr '\n' ' ')"; exit 1; }
+        python main.py 2>&1 | tee run.log || { echo "::error title=Crawler failed::$(tail -n 5 run.log | tr '\n' ' ')"; exit 1; }
         cd ./results
         git init
         git config --local user.name "${GITHUB_ACTOR}"

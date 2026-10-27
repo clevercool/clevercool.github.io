@@ -53,7 +53,7 @@ I am a Postdoctoral Researcher at **Meta** (Menlo Park, CA). Previously, I was a
 <br>
 
 My research focuses on computer architecture and hardware–software co-design for efficient, scalable AI systems, including:
-- Architectures for large language model inference: KV-cache compression, low-bit and vector quantization, and efficient long-context reasoning.
+- Architectures for efficient large language model inference and reasoning.
 - Compression-aware accelerators: sparsity, quantization, and novel numerical data types co-designed with the hardware.
 - Memory systems and infrastructure for large-scale AI training and serving.
 
@@ -84,7 +84,7 @@ An up-to-date publication and citation record is available on my [Google Scholar
 
 - *2026.08 - Now*, Postdoctoral Researcher, AI and Systems Co-Design, [Meta](https://aisystemcodesign.github.io/), Menlo Park, CA.
 - *2023.12 - 2026.08*, Postdoctoral Associate, Department of Electrical and Computer Engineering, Duke University, Durham, NC.
-- *2023.04 - 2023.09*, Research Intern, Ant Group, Hangzhou.
+- *2023.04 - 2023.09*, Research Intern, Ant Group, Beijing.
 - *2021.06 - 2023.12*, Research Intern, Shanghai Qi Zhi Institute, Shanghai.
 - *2020.06 - 2021.05*, Research Intern, Microsoft Research Asia, Beijing.
 - *2019.05 - 2019.12*, Research Intern, NVIDIA, Shanghai.
@@ -213,7 +213,7 @@ ICCD 2022.
 - *2026.11*, "New Architectural Opportunities for LLM Quantization." ICCAD 2026 Workshop on Memory-Centric Computing for LLM Inference, San Jose, CA.
 - *2026.09*, "Where Quantization Architecture Goes Next: Co-Designing Data Types and Hardware for LLM Inference." AI and Systems Co-Design Organization, Meta, Menlo Park, CA.
 - *2025.04*, "Unlocking New Opportunities in Quantization and Sparsity Co-Design for Large Language Models." Athena Seminar Series, NSF AI Institute for Edge Computing (Athena), Duke University, Durham, NC.
-- *2025.03*, "Unlocking New Opportunities in Quantization and Sparsity Co-Design for Large Language Models." Computer Science Seminar, North Carolina State University, Raleigh, NC.
+- *2025.03*, "Unlocking New Opportunities in Quantization and Sparsity Co-Design for Large Language Models." [Computer Science Seminar](https://www.csc.ncsu.edu/research/colloquia/seminar-post.php?id=1171), North Carolina State University, Raleigh, NC.
 - *2023.08*, "Challenges and Opportunities of Large Language Model Quantization for Computer Architecture." Forum for Outstanding Young Scholars and Ph.D. Students in Computer Architecture, CCF ACA 2023, Nanchang, China.
 
 # 👔 Academic Service
@@ -244,11 +244,11 @@ ICCD 2022.
 
 
 # 📖 Educations
-- *2020.09 - 2023.09*, Ph.D. in Computer Science, Department of Computer Science and Engineering, Shanghai Jiao Tong University. Dissertation: *Hardware–Software Co-Design for Lightweight Artificial Intelligence* (Outstanding Doctoral Dissertation Award).
+- *2020.09 - 2023.09*, Ph.D. in Computer Science, Department of Computer Science and Engineering, Shanghai Jiao Tong University. Dissertation: *Software–Hardware Co-Design for Tiny Artificial Intelligence* (Outstanding Doctoral Dissertation Award).
 - *2017.09 - 2020.03*, M.E. in Computer Technology, Department of Computer Science and Engineering, Shanghai Jiao Tong University.
 - *2012.09 - 2016.06*, B.S. in Computer Science, College of Computer Science and Software Engineering, Shenzhen University.
 
 # 🧑‍🏫 Teaching
-- *Spring 2019*, Teaching Assistant, Embedded System Principle and Practice, Shanghai Jiao Tong University (Instructor: Prof. Jingwen Leng).
+- *Spring 2019*, Teaching Assistant, [Embedded System Principle and Practice](https://www.cs.sjtu.edu.cn/~leng-jw/teach/spring2019.html), Shanghai Jiao Tong University (Instructor: Prof. Jingwen Leng).
 - *Summer 2018*, Teaching Assistant, Introduction to Computing, summer course taught by Prof. Yale N. Patt (UT Austin) at Shanghai Jiao Tong University.
-- *Spring 2018*, Teaching Assistant, Embedded System Principle and Practice, Shanghai Jiao Tong University (Instructor: Prof. Jingwen Leng).
+- *Spring 2018*, Teaching Assistant, [Embedded System Principle and Practice](https://www.cs.sjtu.edu.cn/~leng-jw/teach/spring2018.html), Shanghai Jiao Tong University (Instructor: Prof. Jingwen Leng).

@@ -110,7 +110,7 @@ ICCD 2022.
 <small>*: Corresponding Author; =: Equal Contribution</small>
 
 
-**[1]** ``HPCA 2027`` **Cong Guo**\*, Xuanzeng Song, Bowen Duan, Haoxuan Shan, Chiyue Wei, Yuzhe Fu, Adnan Aziz, Hai Li, Yiran Chen; Duet: Harmonizing Compute and Memory Demands for LLM Decoding. In IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2027.
+**[1]** ``HPCA 2027`` **Cong Guo**=\*, Xuanzeng Song=, Bowen Duan, Haoxuan Shan, Chiyue Wei, Yuzhe Fu, Adnan Aziz, Hai Li, Yiran Chen; Duet: Harmonizing Compute and Memory Demands for LLM Decoding. In IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2027.
 
 **[2]** ``ASPLOS 2027`` Haoxuan Shan=, **Cong Guo**=\*, Bowen Duan, Chiyue Wei, Feng Cheng, Yuzhe Fu, Yintao He, Hai Li, Yiran Chen; Vortex: Bridging Extreme Compression and Efficient LLM Inference. In ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2027.
 

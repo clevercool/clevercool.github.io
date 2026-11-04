@@ -63,7 +63,7 @@ An up-to-date publication and citation record is available on my [Google Scholar
 # 🔥 News
 - *2026.11*: &nbsp;🎉🎉🎉 Three papers were accepted to **HPCA 2027**.
 - *2026.08*: &nbsp;🎉 Joined [**Meta**](https://aisystemcodesign.github.io/) as a Postdoctoral Researcher (Menlo Park, CA)!
-- *2026.07*: &nbsp;🎉 One paper was conditionally accepted to **ASPLOS 2027**.
+- *2026.07*: &nbsp;🎉 One paper was accepted to **ASPLOS 2027**.
 - *2026.07*: &nbsp;🏛️ Serving as **Publicity Co-Chair** for [HPCA 2027](https://conf.researchr.org/committee/hpca-2027/hpca-2027-organizing-committee).
 - *2026.07*: &nbsp;🎉 One paper was accepted to **MICRO 2026**.
 - *2026.03*: &nbsp;🎉 One paper was accepted to **ISCA 2026**.
@@ -112,7 +112,8 @@ ICCD 2022.
 
 **[1]** ``HPCA 2027`` **Cong Guo**=\*, Xuanzeng Song=, Bowen Duan, Haoxuan Shan, Chiyue Wei, Yuzhe Fu, Adnan Aziz, Hai Li, Yiran Chen; Duet: Harmonizing Compute and Memory Demands for LLM Decoding. In IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2027.
 
-**[2]** ``ASPLOS 2027`` Haoxuan Shan=, **Cong Guo**=\*, Bowen Duan, Chiyue Wei, Feng Cheng, Yuzhe Fu, Yintao He, Hai Li, Yiran Chen; Vortex: Bridging Extreme Compression and Efficient LLM Inference. In ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2027.
+**[2]** ``ASPLOS 2027`` Haoxuan Shan=, **Cong Guo**=\*, Bowen Duan, Chiyue Wei, Feng Cheng, Yuzhe Fu, Yintao He, Hai Li, Yiran Chen; [Vortex: Bridging Extreme Compression and Efficient LLM Inference](https://arxiv.org/abs/2609.12208). In ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2027.
+[![](https://img.shields.io/github/stars/shanhx2000/Vortex?style=social&label=Code+Stars)](https://github.com/shanhx2000/Vortex)
 
 
 **[3]** ``MICRO 2026`` Feng Cheng, **Cong Guo**\*, Junyao Zhang, Haoxuan Shan, Chiyue Wei, Hong Wang, Hai Li, Yiran Chen; Gossamer: A Utility-Driven Architecture for Constant-Budget KV Cache Compression in Reasoning LLMs. In IEEE/ACM International Symposium on Microarchitecture (MICRO), 2026.

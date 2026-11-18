@@ -57,11 +57,11 @@ My research focuses on computer architecture and hardware–software co-design f
 - Novel accelerator architectures for large language models.
 - Systems and infrastructure for large-scale AI serving.
 
-I have published 38 peer-reviewed papers (34 conference papers and 4 journal/magazine articles), including 20 papers at the four flagship computer architecture conferences (HPCA ×8, ISCA ×6, ASPLOS ×4, MICRO ×2), among which 13 are first- or corresponding-author publications. I was inducted into the [**HPCA Hall of Fame**](https://ieeetcca.org/awards/hpca-hall-of-fame/) in 2027. My work has received an **HPCA 2026 Best Paper Nomination**, an **ASPLOS 2026 Best Paper Nomination**, and was selected as an **IEEE 2022 Micro Top Pick (Honorable Mention)**.
+I have published 38 peer-reviewed papers (34 conference papers and 4 journal/magazine articles), including 20 papers at the four flagship computer architecture conferences (HPCA ×8, ISCA ×6, ASPLOS ×4, MICRO ×2), among which 13 are first- or corresponding-author publications. My work has received an **HPCA 2026 Best Paper Nomination**, an **ASPLOS 2026 Best Paper Nomination**, and was selected as an **IEEE 2022 Micro Top Pick (Honorable Mention)**.
 An up-to-date publication and citation record is available on my [Google Scholar](https://scholar.google.com/citations?user=r3IEwrgAAAAJ) <a href='https://scholar.google.com/citations?user=r3IEwrgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🔥 News
-- *2026.11*: &nbsp;🏆 Inducted into the [**HPCA Hall of Fame**](https://ieeetcca.org/awards/hpca-hall-of-fame/) (HPCA 2027).
+- *2026.11*: &nbsp;🏆 With 8 HPCA papers, I will be inducted into the [**HPCA Hall of Fame**](https://ieeetcca.org/awards/hpca-hall-of-fame/) at **HPCA 2027**.
 - *2026.11*: &nbsp;🎉🎉🎉 Three papers were accepted to **HPCA 2027**.
 - *2026.08*: &nbsp;🎉 Joined [**Meta**](https://aisystemcodesign.github.io/) as a Postdoctoral Researcher (Menlo Park, CA)!
 - *2026.07*: &nbsp;🎉 One paper was accepted to **ASPLOS 2027**.
@@ -207,7 +207,6 @@ ICCD 2022.
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🏆 Honors and Awards
-- *2026.11* [**HPCA Hall of Fame**](https://ieeetcca.org/awards/hpca-hall-of-fame/) (HPCA 2027), IEEE Technical Committee on Computer Architecture (TCCA)
 - *2026.03* **ASPLOS 2026 Best Paper Nomination**
 - *2026.01* **HPCA 2026 Best Paper Nomination** (4 nominees among 119 accepted papers)
 - *2025.10* Nominee for the 2025 Outstanding Postdoctoral Award (24 nominees university-wide), Duke University 

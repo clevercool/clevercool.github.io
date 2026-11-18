@@ -265,8 +265,10 @@ ICCD 2022.
 - *2017.09 - 2020.03*, M.E. in Computer Technology, Department of Computer Science and Engineering, Shanghai Jiao Tong University.
 - *2012.09 - 2016.06*, B.S. in Computer Science, College of Computer Science and Software Engineering, Shenzhen University.
 
+<!--
 # 🧑‍🏫 Teaching
 - *2024.04*, Tutorial Lecturer, "Accelerating Sparse DNNs with Structured Sparsity." ASPLOS 2024 Tutorial: *Amanda: Unified Instrumentation Framework for Deep Neural Networks*, La Jolla, CA.
 - *Spring 2019*, Teaching Assistant, [Embedded System Principle and Practice](https://www.cs.sjtu.edu.cn/~leng-jw/teach/spring2019.html), Shanghai Jiao Tong University (Instructor: Prof. Jingwen Leng).
 - *Summer 2018*, Teaching Assistant, Introduction to Computing, summer course taught by Prof. Yale N. Patt (UT Austin) at Shanghai Jiao Tong University.
 - *Spring 2018*, Teaching Assistant, [Embedded System Principle and Practice](https://www.cs.sjtu.edu.cn/~leng-jw/teach/spring2018.html), Shanghai Jiao Tong University (Instructor: Prof. Jingwen Leng).
+-->

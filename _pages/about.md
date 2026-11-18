@@ -53,14 +53,15 @@ I am a Postdoctoral Researcher at **Meta** (Menlo Park, CA). Previously, I was a
 <br>
 
 My research focuses on computer architecture and hardware–software co-design for efficient, scalable AI systems, including:
-- Architectures for efficient large language model inference and reasoning.
-- Compression-aware accelerators: sparsity, quantization, and novel numerical data types co-designed with the hardware.
-- Systems and infrastructure for large-scale AI training and serving.
+- Hardware-efficient model compression, such as sparsity and quantization.
+- Novel accelerator architectures for large language models.
+- Systems and infrastructure for large-scale AI serving.
 
-I have published 38 peer-reviewed papers (34 conference papers and 4 journal/magazine articles), including 20 papers at the four flagship computer architecture conferences (HPCA ×8, ISCA ×6, ASPLOS ×4, MICRO ×2), among which 13 are first- or corresponding-author publications. My work has received an **HPCA 2026 Best Paper Nomination**, an **ASPLOS 2026 Best Paper Nomination**, and was selected as an **IEEE 2022 Micro Top Pick (Honorable Mention)**.
+I have published 38 peer-reviewed papers (34 conference papers and 4 journal/magazine articles), including 20 papers at the four flagship computer architecture conferences (HPCA ×8, ISCA ×6, ASPLOS ×4, MICRO ×2), among which 13 are first- or corresponding-author publications. I was inducted into the [**HPCA Hall of Fame**](https://ieeetcca.org/awards/hpca-hall-of-fame/) in 2027. My work has received an **HPCA 2026 Best Paper Nomination**, an **ASPLOS 2026 Best Paper Nomination**, and was selected as an **IEEE 2022 Micro Top Pick (Honorable Mention)**.
 An up-to-date publication and citation record is available on my [Google Scholar](https://scholar.google.com/citations?user=r3IEwrgAAAAJ) <a href='https://scholar.google.com/citations?user=r3IEwrgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🔥 News
+- *2026.11*: &nbsp;🏆 Inducted into the [**HPCA Hall of Fame**](https://ieeetcca.org/awards/hpca-hall-of-fame/) (HPCA 2027).
 - *2026.11*: &nbsp;🎉🎉🎉 Three papers were accepted to **HPCA 2027**.
 - *2026.08*: &nbsp;🎉 Joined [**Meta**](https://aisystemcodesign.github.io/) as a Postdoctoral Researcher (Menlo Park, CA)!
 - *2026.07*: &nbsp;🎉 One paper was accepted to **ASPLOS 2027**.
@@ -206,6 +207,7 @@ ICCD 2022.
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🏆 Honors and Awards
+- *2026.11* [**HPCA Hall of Fame**](https://ieeetcca.org/awards/hpca-hall-of-fame/) (HPCA 2027), IEEE Technical Committee on Computer Architecture (TCCA)
 - *2026.03* **ASPLOS 2026 Best Paper Nomination**
 - *2026.01* **HPCA 2026 Best Paper Nomination** (4 nominees among 119 accepted papers)
 - *2025.10* Nominee for the 2025 Outstanding Postdoctoral Award (24 nominees university-wide), Duke University 
@@ -219,11 +221,12 @@ ICCD 2022.
 
 # 💬 Invited Talks
 - *2026.11*, "New Architectural Opportunities for LLM Quantization." ICCAD 2026 Workshop on Memory-Centric Computing for LLM Inference, San Jose, CA.
+- *2026.11*, "Where Quantization Architecture Goes Next: Co-Designing Data Types and Hardware for LLM Inference." MTIA TED Talk, Meta, Menlo Park, CA.
 - *2026.09*, "Where Quantization Architecture Goes Next: Co-Designing Data Types and Hardware for LLM Inference." AI and Systems Co-Design Organization, Meta, Menlo Park, CA.
-- *2025.04*, "Unlocking New Opportunities in Quantization and Sparsity Co-Design for Large Language Models." Athena Seminar Series, NSF AI Institute for Edge Computing (Athena), Duke University, Durham, NC.
+- *2025.04*, "Unlocking New Opportunities in Quantization and Sparsity Co-Design for Large Language Models." Athena Seminar Series, NSF AI Institute for Edge Computing and Systems (Athena), Duke University, Durham, NC.
 - *2025.03*, "Unlocking New Opportunities in Quantization and Sparsity Co-Design for Large Language Models." Computer Science Seminar, North Carolina State University, Raleigh, NC.
-- *2024.04*, "Accelerating Sparse DNNs with Structured Sparsity." ASPLOS 2024 Tutorial: Amanda: Unified Instrumentation Framework for Deep Neural Networks, San Diego, CA.
 - *2023.08*, "Challenges and Opportunities of Large Language Model Quantization for Computer Architecture." Forum for Outstanding Young Scholars and Ph.D. Students in Computer Architecture, CCF ACA 2023, Nanchang, China.
+- *2020.07*, "Balancing Efficiency and Flexibility for DNN Acceleration via Temporal GPU-Systolic Array Integration." DAC Young Fellows Program, 57th Design Automation Conference (DAC 2020), Virtual.
 
 # 👔 Academic Service
 
@@ -240,15 +243,20 @@ ICCD 2022.
 
 **Conference Service**
 - [Publicity Co-Chair](https://conf.researchr.org/committee/hpca-2027/hpca-2027-organizing-committee), **HPCA 2027**
+- Technical Program Committee (**TPC**) Member, **ISCA 2027**
 - Technical Program Committee (**TPC**) Member, **DAC 2027**
+- Technical Program Committee (**TPC**) Member, **ISPASS 2027**
 - Technical Program Committee (**TPC**) Member, **DATE 2027**
 - Technical Program Committee (**TPC**) Member, **MICRO 2026**
 - Technical Program Committee (**TPC**) Member, **DAC 2026**
 - Session Chair, **ISCA 2026**
 - Session Chair, **DAC 2026**
 - Reviewer, **HPCA 2027**
+- Reviewer, **MLSys 2027**
 - Reviewer, **AAAI 2027**
+- Reviewer, **ISCAS 2027**
 - Reviewer, **NeurIPS 2026**
+- Reviewer, **ISCAS 2026**
 - Reviewer, **ICCV 2025**
 
 
@@ -258,6 +266,7 @@ ICCD 2022.
 - *2012.09 - 2016.06*, B.S. in Computer Science, College of Computer Science and Software Engineering, Shenzhen University.
 
 # 🧑‍🏫 Teaching
+- *2024.04*, Tutorial Lecturer, "Accelerating Sparse DNNs with Structured Sparsity." ASPLOS 2024 Tutorial: *Amanda: Unified Instrumentation Framework for Deep Neural Networks*, La Jolla, CA.
 - *Spring 2019*, Teaching Assistant, [Embedded System Principle and Practice](https://www.cs.sjtu.edu.cn/~leng-jw/teach/spring2019.html), Shanghai Jiao Tong University (Instructor: Prof. Jingwen Leng).
 - *Summer 2018*, Teaching Assistant, Introduction to Computing, summer course taught by Prof. Yale N. Patt (UT Austin) at Shanghai Jiao Tong University.
 - *Spring 2018*, Teaching Assistant, [Embedded System Principle and Practice](https://www.cs.sjtu.edu.cn/~leng-jw/teach/spring2018.html), Shanghai Jiao Tong University (Instructor: Prof. Jingwen Leng).

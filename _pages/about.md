@@ -219,7 +219,7 @@ ICCD 2022.
 - *2020.07* DAC 2020 Richard Newton Young Student Fellow, Design Automation Conference
 
 # 💬 Invited Talks
-- *2026.11*, "New Architectural Opportunities for LLM Quantization." ICCAD 2026 Workshop on Memory-Centric Computing for LLM Inference, San Jose, CA.
+- *2026.11*, "New Architectural Opportunities for LLM Quantization." ICCAD 2026 Workshop on Memory-Centric Computing for LLM Inference, San Jose, CA. [[Slides]](/files/CongGuo_New_Architectural_Opportunities_for_LLM_Quantization.pdf)
 - *2026.11*, "Where Quantization Architecture Goes Next: Co-Designing Data Types and Hardware for LLM Inference." MTIA TED Talk, Meta, Menlo Park, CA.
 - *2026.09*, "Where Quantization Architecture Goes Next: Co-Designing Data Types and Hardware for LLM Inference." AI and Systems Co-Design Organization, Meta, Menlo Park, CA.
 - *2025.04*, "Unlocking New Opportunities in Quantization and Sparsity Co-Design for Large Language Models." Athena Seminar Series, NSF AI Institute for Edge Computing and Systems (Athena), Duke University, Durham, NC.

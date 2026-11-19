@@ -48,7 +48,7 @@ redirect_from:
 📮 <b>Contact:</b> <a href="mailto:congguo.ai@gmail.com">congguo.ai@gmail.com</a> — please use this address for all correspondence. My previous institutional email is no longer in use.
 </div> -->
 
-I am a Postdoctoral Researcher at **Meta** (Menlo Park, CA). Previously, I was a Postdoctoral Associate in the Department of Electrical and Computer Engineering at Duke University, working with Prof. Yiran Chen and Prof. Hai (Helen) Li. I received my Ph.D. in Computer Science from Shanghai Jiao Tong University in 2023, supervised by Prof. Jingwen Leng.
+I am a Visiting Research Scientist at **Meta** (Menlo Park, CA). Previously, I was a Postdoctoral Associate in the Department of Electrical and Computer Engineering at Duke University, working with Prof. Yiran Chen and Prof. Hai (Helen) Li. I received my Ph.D. in Computer Science from Shanghai Jiao Tong University in 2023, supervised by Prof. Jingwen Leng.
 
 <br>
 
@@ -63,7 +63,7 @@ An up-to-date publication and citation record is available on my [Google Scholar
 # 🔥 News
 - *2026.11*: &nbsp;🏆 With 8 HPCA papers, I will be inducted into the [**HPCA Hall of Fame**](https://ieeetcca.org/awards/hpca-hall-of-fame/) at **HPCA 2027**.
 - *2026.11*: &nbsp;🎉🎉🎉 Three papers were accepted to **HPCA 2027**.
-- *2026.08*: &nbsp;🎉 Joined [**Meta**](https://aisystemcodesign.github.io/) as a Postdoctoral Researcher (Menlo Park, CA)!
+- *2026.08*: &nbsp;🎉 Joined [**Meta**](https://aisystemcodesign.github.io/) as a Visiting Research Scientist (Menlo Park, CA)!
 - *2026.07*: &nbsp;🎉 One paper was accepted to **ASPLOS 2027**.
 - *2026.07*: &nbsp;🏛️ Serving as **Publicity Co-Chair** for [HPCA 2027](https://conf.researchr.org/committee/hpca-2027/hpca-2027-organizing-committee).
 - *2026.07*: &nbsp;🎉 One paper was accepted to **MICRO 2026**.
@@ -84,7 +84,7 @@ An up-to-date publication and citation record is available on my [Google Scholar
 
 # 💻 Experience
 
-- *2026.08 - Now*, Postdoctoral Researcher, AI and Systems Co-Design, [Meta](https://aisystemcodesign.github.io/), Menlo Park, CA.
+- *2026.08 - Now*, Visiting Research Scientist, AI and Systems Co-Design, [Meta](https://aisystemcodesign.github.io/), Menlo Park, CA.
 - *2023.12 - 2026.08*, Postdoctoral Associate, Department of Electrical and Computer Engineering, Duke University, Durham, NC.
 - *2023.04 - 2023.09*, Research Intern, Ant Group, Beijing.
 - *2021.06 - 2023.12*, Research Intern, Shanghai Qi Zhi Institute, Shanghai.

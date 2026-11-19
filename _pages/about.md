@@ -61,6 +61,7 @@ I have published 38 peer-reviewed papers (34 conference papers and 4 journal/mag
 An up-to-date publication and citation record is available on my [Google Scholar](https://scholar.google.com/citations?user=r3IEwrgAAAAJ) <a href='https://scholar.google.com/citations?user=r3IEwrgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🔥 News
+- *2026.11*: &nbsp;🎤 Gave an invited talk, "New Architectural Opportunities for LLM Quantization," at the **ICCAD 2026** Workshop on Memory-Centric Computing for LLM Inference, San Jose, CA. [[Slides]](/files/CongGuo_New_Architectural_Opportunities_for_LLM_Quantization.pdf)
 - *2026.11*: &nbsp;🏆 With 8 HPCA papers, I will be inducted into the **HPCA Hall of Fame** at **HPCA 2027**.
 - *2026.11*: &nbsp;🎉🎉🎉 Three papers were accepted to **HPCA 2027**.
 - *2026.08*: &nbsp;🎉 Joined [**Meta**](https://aisystemcodesign.github.io/) as a Visiting Research Scientist (Menlo Park, CA)!

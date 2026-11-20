@@ -55,7 +55,7 @@ An up-to-date publication and citation record is available on my [Google Scholar
 
 # 🔬 My Research
 
-My goal is to **define next-generation AI systems and architectures for large language models (LLMs)**. I co-design compressed representations, accelerator datapaths, and serving systems as one problem, to reduce data movement and improve useful work per unit of hardware. Following the datapath of an LLM accelerator, my work tackles two problems: making compression hardware-efficient, and closing the utilization gap in LLM decoding from both ends of the stack.
+My research focuses on computer architecture and hardware–software co-design for efficient, scalable AI systems, including:
 - <span style="display:inline-block;width:1.25em;height:1.25em;line-height:1.25em;border-radius:50%;background:#14625F;color:#fff;font-size:0.8em;font-weight:700;text-align:center;margin-right:0.35em;">1</span>Compression-aware architectures: new accelerator designs for sparsity, quantization, and novel data types that unlock gains algorithms alone cannot reach.
 - <span style="display:inline-block;width:1.25em;height:1.25em;line-height:1.25em;border-radius:50%;background:#00539B;color:#fff;font-size:0.8em;font-weight:700;text-align:center;margin-right:0.35em;">2</span>Systems and infrastructure for large-scale LLM serving, such as memory management, scheduling, and parallel decoding.
 - <span style="display:inline-block;width:1.25em;height:1.25em;line-height:1.25em;border-radius:50%;background:#E89923;color:#fff;font-size:0.8em;font-weight:700;text-align:center;margin-right:0.35em;">3</span>Novel accelerator architectures for LLMs, co-designing compute and memory.

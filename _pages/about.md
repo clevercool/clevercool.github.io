@@ -68,9 +68,13 @@ My research focuses on computer architecture and hardware–software co-design f
 <summary style="cursor:pointer;font-weight:700;color:#012169;font-size:1.05em;margin:0.4em 0;"><span style="color:#E89923;">1-1</span>&nbsp; Sparsity Timeline</summary>
 {% include research_sparsity.svg %}
 </details>
-<details style="margin:0.8em 0 1.2em;">
+<details style="margin:0.8em 0 0.8em;">
 <summary style="cursor:pointer;font-weight:700;color:#012169;font-size:1.05em;margin:0.4em 0;"><span style="color:#E89923;">1-2</span>&nbsp; Quantization Stages</summary>
 {% include research_quant.svg %}
+</details>
+<details style="margin:0.8em 0 1.2em;">
+<summary style="cursor:pointer;font-weight:700;color:#012169;font-size:1.05em;margin:0.4em 0;"><span style="color:#E89923;">2-3</span>&nbsp; Closing the Utilization Gap</summary>
+{% include research_util.svg %}
 </details>
 
 # 🔥 News

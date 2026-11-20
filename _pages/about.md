@@ -62,7 +62,9 @@ My research focuses on computer architecture and hardware–software co-design f
 - <span style="display:inline-block;width:1.25em;height:1.25em;line-height:1.25em;border-radius:50%;background:#E89923;color:#fff;font-size:0.8em;font-weight:700;text-align:center;margin-right:0.35em;">2</span>Novel accelerator architectures for large language models.
 - <span style="display:inline-block;width:1.25em;height:1.25em;line-height:1.25em;border-radius:50%;background:#00539B;color:#fff;font-size:0.8em;font-weight:700;text-align:center;margin-right:0.35em;">3</span>Systems and infrastructure for large-scale AI serving.
 
-<p align="center"><img src="/images/research_overview.svg?v=3" alt="Research overview: Toward Next-Generation AI Infrastructure" style="width:100%;max-width:none;"></p>
+<div style="margin:0.8em 0 1em;">
+{% include research_overview.svg %}
+</div>
 
 <details style="margin:1.2em 0 0.8em;">
 <summary style="cursor:pointer;font-weight:700;color:#012169;font-size:1.05em;margin:0.4em 0;"><span style="color:#E89923;">1-1</span>&nbsp; Sparsity Timeline</summary>

@@ -119,7 +119,7 @@ blockquote {
 
 a {
   
-  &:focus {
+  &:focus-visible {
     @extend %tab-focus;
   }
 

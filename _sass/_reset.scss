@@ -70,8 +70,15 @@ a {
 
 /* Apply focus state */
 
-a:focus {
+a:focus-visible {
   @extend %tab-focus;
+}
+
+/* No outline on mouse click (keyboard focus still shows it) */
+a:focus:not(:focus-visible),
+summary:focus:not(:focus-visible),
+button:focus:not(:focus-visible) {
+  outline: none;
 }
 
 /* Remove outline from links */

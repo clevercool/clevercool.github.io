@@ -74,11 +74,13 @@ a:focus-visible {
   @extend %tab-focus;
 }
 
-/* No outline on mouse click (keyboard focus still shows it) */
-a:focus:not(:focus-visible),
-summary:focus:not(:focus-visible),
-button:focus:not(:focus-visible) {
-  outline: none;
+/* No focus outline on links, summaries, or buttons */
+a:focus, a:focus-visible, a:active,
+summary:focus, summary:focus-visible,
+button:focus, button:focus-visible,
+svg a:focus, svg a:focus-visible {
+  outline: none !important;
+  box-shadow: none !important;
 }
 
 /* Remove outline from links */

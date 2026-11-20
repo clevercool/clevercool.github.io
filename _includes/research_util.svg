@@ -2,7 +2,7 @@
 <defs><marker id="ua" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#4A4F57"/></marker><marker id="ur" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#C62828"/></marker><marker id="ug" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#E89923"/></marker><marker id="ub" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#00539B"/></marker></defs>
 <rect x="542" y="4" width="240" height="218" rx="9" fill="#F7F9FC" stroke="#D5DEEC"/>
 <path d="M542,13 a9,9 0 0 1 9,-9 h222 a9,9 0 0 1 9,9 v19 h-240 z" fill="#E89923"/>
-<text x="554" y="23" font-size="11.25" font-weight="700" fill="#fff">2<tspan fill="#fff" dx="7">Bottom-Up: Architecture</tspan></text>
+<text x="554" y="23" font-size="11.25" font-weight="700" fill="#fff">3<tspan fill="#fff" dx="7">Bottom-Up: Architecture</tspan></text>
 <text x="554" y="48" text-anchor="start" font-size="8.55" font-weight="400" fill="#8A8F98" font-style="italic">Adapt the hardware: fit both demands</text>
 <rect x="554" y="62" width="216" height="16" rx="3" fill="#012169"/>
 <text x="559" y="73.5" text-anchor="start" font-size="7.65" font-weight="700" fill="#fff">More</text>
@@ -46,7 +46,7 @@
 <text x="400.0" y="212" text-anchor="middle" font-size="7.65" font-weight="400" fill="#8A8F98" font-style="italic">Each token reads all weights + KV cache</text>
 <rect x="18" y="4" width="240" height="218" rx="9" fill="#F7F9FC" stroke="#D5DEEC"/>
 <path d="M18,13 a9,9 0 0 1 9,-9 h222 a9,9 0 0 1 9,9 v19 h-240 z" fill="#00539B"/>
-<text x="30" y="23" font-size="11.25" font-weight="700" fill="#fff">3<tspan fill="#fff" dx="7">Top-Down: Algorithm &amp; System</tspan></text>
+<text x="30" y="23" font-size="11.25" font-weight="700" fill="#fff">2<tspan fill="#fff" dx="7">Top-Down: Algorithm &amp; System</tspan></text>
 <text x="30" y="48" text-anchor="start" font-size="8.55" font-weight="400" fill="#8A8F98" font-style="italic">Adapt the software: expand parallelism</text>
 <text x="30" y="77" text-anchor="start" font-size="8.10" font-weight="700" fill="#4A4F57">AR</text>
 <rect x="84" y="66" width="13" height="14" rx="2" fill="#DCE5F4"/>

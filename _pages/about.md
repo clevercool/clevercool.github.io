@@ -55,10 +55,10 @@ An up-to-date publication and citation record is available on my [Google Scholar
 
 # 🔬 My Research
 
-My research focuses on computer architecture and hardware–software co-design for efficient, scalable AI systems, including:
-- <span style="display:inline-block;width:1.25em;height:1.25em;line-height:1.25em;border-radius:50%;background:#14625F;color:#fff;font-size:0.8em;font-weight:700;text-align:center;margin-right:0.35em;">1</span>Efficient compression-aware architectures: new LLM accelerator designs for sparsity and quantization.
-- <span style="display:inline-block;width:1.25em;height:1.25em;line-height:1.25em;border-radius:50%;background:#00539B;color:#fff;font-size:0.8em;font-weight:700;text-align:center;margin-right:0.35em;">2</span>Systems and infrastructure for large-scale LLM serving: memory management, scheduling, and parallel decoding.
-- <span style="display:inline-block;width:1.25em;height:1.25em;line-height:1.25em;border-radius:50%;background:#E89923;color:#fff;font-size:0.8em;font-weight:700;text-align:center;margin-right:0.35em;">3</span>Novel accelerator architectures for LLM inference, co-designing compute and memory.
+My research focuses on computer architecture and hardware–software co-design for efficient, scalable AI systems. I envision AI systems that operate natively on compressed representations, with models, computation, and serving infrastructure designed together around them. My work spans three connected directions:
+- <span style="display:inline-block;width:1.25em;height:1.25em;line-height:1.25em;border-radius:50%;background:#14625F;color:#fff;font-size:0.8em;font-weight:700;text-align:center;margin-right:0.35em;">1</span>**Compression-aware computing:** co-designing sparsity and quantization methods with architectures that compute efficiently on compressed representations.
+- <span style="display:inline-block;width:1.25em;height:1.25em;line-height:1.25em;border-radius:50%;background:#00539B;color:#fff;font-size:0.8em;font-weight:700;text-align:center;margin-right:0.35em;">2</span>**Architecture–system co-design:** developing kernels, runtimes, and serving mechanisms that translate architectural capabilities into efficient AI execution.
+- <span style="display:inline-block;width:1.25em;height:1.25em;line-height:1.25em;border-radius:50%;background:#E89923;color:#fff;font-size:0.8em;font-weight:700;text-align:center;margin-right:0.35em;">3</span>**Compute–memory co-design:** developing accelerator architectures that coordinate computation and data movement to improve resource utilization.
 
 <div style="margin:0.8em 0 1em;">
 {% include research_overview.svg %}

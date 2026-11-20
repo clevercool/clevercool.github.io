@@ -50,8 +50,6 @@ redirect_from:
 
 I am a Visiting Research Scientist at **Meta** (Menlo Park, CA). Previously, I was a Postdoctoral Associate in the Department of Electrical and Computer Engineering at Duke University, working with Prof. Yiran Chen and Prof. Hai (Helen) Li. I received my Ph.D. in Computer Science from Shanghai Jiao Tong University in 2023, supervised by Prof. Jingwen Leng.
 
-<br>
-
 I have published 38 peer-reviewed papers (34 conference papers and 4 journal/magazine articles), including 20 papers at the four flagship computer architecture conferences (HPCA ×8, ISCA ×6, ASPLOS ×4, MICRO ×2), among which 13 are first- or corresponding-author publications. My work has received an **HPCA 2026 Best Paper Nomination**, an **ASPLOS 2026 Best Paper Nomination**, and was selected as an **IEEE 2022 Micro Top Pick (Honorable Mention)**.
 An up-to-date publication and citation record is available on my [Google Scholar](https://scholar.google.com/citations?user=r3IEwrgAAAAJ) <a href='https://scholar.google.com/citations?user=r3IEwrgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 

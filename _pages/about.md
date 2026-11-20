@@ -57,7 +57,7 @@ An up-to-date publication and citation record is available on my [Google Scholar
 
 My research focuses on computer architecture and hardware–software co-design for efficient, scalable AI systems, including:
 - <span style="display:inline-block;width:1.25em;height:1.25em;line-height:1.25em;border-radius:50%;background:#14625F;color:#fff;font-size:0.8em;font-weight:700;text-align:center;margin-right:0.35em;">1</span>Efficient compression-aware architectures: new LLM accelerator designs for sparsity and quantization.
-- <span style="display:inline-block;width:1.25em;height:1.25em;line-height:1.25em;border-radius:50%;background:#00539B;color:#fff;font-size:0.8em;font-weight:700;text-align:center;margin-right:0.35em;">2</span>Systems and infrastructure for large-scale LLM serving, such as memory management, scheduling, and parallel decoding.
+- <span style="display:inline-block;width:1.25em;height:1.25em;line-height:1.25em;border-radius:50%;background:#00539B;color:#fff;font-size:0.8em;font-weight:700;text-align:center;margin-right:0.35em;">2</span>Systems and infrastructure for large-scale LLM serving: memory management, scheduling, and parallel decoding.
 - <span style="display:inline-block;width:1.25em;height:1.25em;line-height:1.25em;border-radius:50%;background:#E89923;color:#fff;font-size:0.8em;font-weight:700;text-align:center;margin-right:0.35em;">3</span>Novel accelerator architectures for LLMs, co-designing compute and memory.
 
 <div style="margin:0.8em 0 1em;">

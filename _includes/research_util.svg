@@ -47,7 +47,7 @@
 <rect x="18" y="4" width="240" height="218" rx="9" fill="#F7F9FC" stroke="#D5DEEC"/>
 <path d="M18,13 a9,9 0 0 1 9,-9 h222 a9,9 0 0 1 9,9 v19 h-240 z" fill="#00539B"/>
 <text x="30" y="23" font-size="11.25" font-weight="700" fill="#fff">3<tspan fill="#fff" dx="7">Top-Down: Algorithm &amp; System</tspan></text>
-<text x="30" y="48" text-anchor="start" font-size="8.55" font-weight="400" fill="#8A8F98" font-style="italic">Adapt the workload: expand parallelism</text>
+<text x="30" y="48" text-anchor="start" font-size="8.55" font-weight="400" fill="#8A8F98" font-style="italic">Adapt the software: expand parallelism</text>
 <text x="30" y="77" text-anchor="start" font-size="8.10" font-weight="700" fill="#4A4F57">AR</text>
 <rect x="84" y="66" width="13" height="14" rx="2" fill="#DCE5F4"/>
 <rect x="100" y="66" width="13" height="14" rx="2" fill="#DCE5F4"/>

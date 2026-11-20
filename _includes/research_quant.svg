@@ -23,10 +23,12 @@
 <text x="146" y="118" text-anchor="middle" font-size="7.20" font-weight="400" fill="#8A8F98" font-style="italic">one PE, many data types</text>
 <circle cx="34" cy="136.5" r="2.4" fill="#E89923"/>
 <a style="text-decoration:none" href="https://arxiv.org/abs/2208.14286" target="_blank"><text x="42" y="140" font-size="9.45" font-weight="700" fill="#012169">ANT<tspan font-weight="400" fill="#012169" dx="4">[MICRO'22]</tspan></text></a>
+<text x="248" y="140" text-anchor="end" font-size="8.55" font-weight="700" fill="#E89923">Top Picks HM</text>
 <circle cx="34" cy="153.5" r="2.4" fill="#E89923"/>
 <a style="text-decoration:none" href="https://arxiv.org/abs/2202.07471" target="_blank"><text x="42" y="157" font-size="9.45" font-weight="700" fill="#012169">SQuant<tspan font-weight="400" fill="#012169" dx="4">[ICLR'22]</tspan></text></a>
 <circle cx="34" cy="170.5" r="2.4" fill="#8A8F98"/>
 <a style="text-decoration:none" href="https://arxiv.org/abs/2601.19213" target="_blank"><text x="42" y="174" font-size="9.45" font-weight="400" fill="#8A8F98">M2XFP<tspan font-weight="400" fill="#8A8F98" dx="4">[ASPLOS'26]</tspan></text></a>
+<text x="248" y="174" text-anchor="end" font-size="8.55" font-weight="700" fill="#E89923">Best Paper Nom.</text>
 <circle cx="34" cy="187.5" r="2.4" fill="#8A8F98"/>
 <text x="42" y="191" font-size="9.45" font-weight="400" fill="#8A8F98">Tensor-Core Numerics<tspan font-weight="400" fill="#8A8F98" dx="4">[HPCA'27]</tspan></text>
 <line x1="260" y1="86" x2="278" y2="86" stroke="#E89923" stroke-width="2.2" marker-end="url(#qg)"/>

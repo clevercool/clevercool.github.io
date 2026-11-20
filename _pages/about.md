@@ -56,24 +56,24 @@ An up-to-date publication and citation record is available on my [Google Scholar
 # 🔬 My Research
 
 My goal is to **define next-generation AI systems and architectures for large language models (LLMs)**. I co-design compressed representations, accelerator datapaths, and serving systems as one problem, to reduce data movement and improve useful work per unit of hardware. Following the datapath of an LLM accelerator, my work tackles two problems: making compression hardware-efficient, and closing the utilization gap in LLM decoding from both ends of the stack.
-- <span style="display:inline-block;width:1.25em;height:1.25em;line-height:1.25em;border-radius:50%;background:#14625F;color:#fff;font-size:0.8em;font-weight:700;text-align:center;margin-right:0.35em;">1</span>**Hardware-efficient compression:** sparsity, quantization, and novel data types.
-- <span style="display:inline-block;width:1.25em;height:1.25em;line-height:1.25em;border-radius:50%;background:#E89923;color:#fff;font-size:0.8em;font-weight:700;text-align:center;margin-right:0.35em;">2</span>**LLM accelerator architectures:** compute and memory co-design for LLM inference.
-- <span style="display:inline-block;width:1.25em;height:1.25em;line-height:1.25em;border-radius:50%;background:#00539B;color:#fff;font-size:0.8em;font-weight:700;text-align:center;margin-right:0.35em;">3</span>**LLM serving systems:** memory management, scheduling, and parallel decoding.
+- <span style="display:inline-block;width:1.25em;height:1.25em;line-height:1.25em;border-radius:50%;background:#14625F;color:#fff;font-size:0.8em;font-weight:700;text-align:center;margin-right:0.35em;">1</span>Hardware-efficient model compression, such as sparsity, quantization, and novel data types.
+- <span style="display:inline-block;width:1.25em;height:1.25em;line-height:1.25em;border-radius:50%;background:#E89923;color:#fff;font-size:0.8em;font-weight:700;text-align:center;margin-right:0.35em;">2</span>Novel accelerator architectures for LLMs, co-designing compute and memory.
+- <span style="display:inline-block;width:1.25em;height:1.25em;line-height:1.25em;border-radius:50%;background:#00539B;color:#fff;font-size:0.8em;font-weight:700;text-align:center;margin-right:0.35em;">3</span>Systems and infrastructure for large-scale LLM serving, such as memory management, scheduling, and parallel decoding.
 
 <div style="margin:0.8em 0 1em;">
 {% include research_overview.svg %}
 </div>
 
 <details style="margin:1.2em 0 0.8em;">
-<summary style="cursor:pointer;font-weight:700;color:#012169;font-size:1.05em;margin:0.4em 0;"><span style="color:#E89923;">1-1</span>&nbsp; Sparsity Timeline</summary>
+<summary style="cursor:pointer;font-weight:700;color:#012169;font-size:1.05em;margin:0.4em 0;"><span style="color:#E89923;">1.1</span>&nbsp; Sparsity Timeline</summary>
 {% include research_sparsity.svg %}
 </details>
 <details style="margin:0.8em 0 0.8em;">
-<summary style="cursor:pointer;font-weight:700;color:#012169;font-size:1.05em;margin:0.4em 0;"><span style="color:#E89923;">1-2</span>&nbsp; Quantization Stages</summary>
+<summary style="cursor:pointer;font-weight:700;color:#012169;font-size:1.05em;margin:0.4em 0;"><span style="color:#E89923;">1.2</span>&nbsp; Quantization Stages</summary>
 {% include research_quant.svg %}
 </details>
 <details style="margin:0.8em 0 1.2em;">
-<summary style="cursor:pointer;font-weight:700;color:#012169;font-size:1.05em;margin:0.4em 0;"><span style="color:#E89923;">2-3</span>&nbsp; Closing the Utilization Gap</summary>
+<summary style="cursor:pointer;font-weight:700;color:#012169;font-size:1.05em;margin:0.4em 0;"><span style="color:#E89923;">2 &amp; 3</span>&nbsp; Closing the Utilization Gap</summary>
 {% include research_util.svg %}
 </details>
 

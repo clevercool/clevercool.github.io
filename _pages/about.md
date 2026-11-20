@@ -50,12 +50,17 @@ redirect_from:
 
 I am a Visiting Research Scientist at **Meta** (Menlo Park, CA). Previously, I was a Postdoctoral Associate in the Department of Electrical and Computer Engineering at Duke University, working with Prof. Yiran Chen and Prof. Hai (Helen) Li. I received my Ph.D. in Computer Science from Shanghai Jiao Tong University in 2023, supervised by Prof. Jingwen Leng.
 
-I have published 38 peer-reviewed papers (34 conference papers and 4 journal/magazine articles), including 20 papers at the four flagship computer architecture conferences (HPCA ×8, ISCA ×6, ASPLOS ×4, MICRO ×2), among which 13 are first- or corresponding-author publications. My work has received an **HPCA 2026 Best Paper Nomination**, an **ASPLOS 2026 Best Paper Nomination**, and was selected as an **IEEE 2022 Micro Top Pick (Honorable Mention)**.
+I have authored 38 peer-reviewed publications, including 20 papers at HPCA, ISCA, ASPLOS, and MICRO. Of these 20 papers, 13 list me as a first or corresponding author. My work has received Best Paper nominations at HPCA 2026 and ASPLOS 2026, and an IEEE Micro Top Picks Honorable Mention for 2022.
 An up-to-date publication and citation record is available on my [Google Scholar](https://scholar.google.com/citations?user=r3IEwrgAAAAJ) <a href='https://scholar.google.com/citations?user=r3IEwrgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🔬 My Research
 
-My research focuses on computer architecture and hardware–software co-design for efficient, scalable AI systems. I envision AI systems that operate natively on compressed representations, with models, computation, and serving infrastructure designed together around them. My work spans three connected directions:
+My research focuses on computer architecture and hardware–software co-design for efficient, scalable AI systems.
+
+I envision AI systems that operate natively on compressed representations, with models, computation, and serving infrastructure designed together around them.
+
+My work spans three connected directions:
+
 - <span style="display:inline-block;width:1.25em;height:1.25em;line-height:1.25em;border-radius:50%;background:#14625F;color:#fff;font-size:0.8em;font-weight:700;text-align:center;margin-right:0.35em;">1</span>**Compression-aware computing:** co-designing sparsity and quantization methods with architectures that compute efficiently on compressed representations.
 - <span style="display:inline-block;width:1.25em;height:1.25em;line-height:1.25em;border-radius:50%;background:#00539B;color:#fff;font-size:0.8em;font-weight:700;text-align:center;margin-right:0.35em;">2</span>**Architecture–system co-design:** developing kernels, runtimes, and serving mechanisms that translate architectural capabilities into efficient AI execution.
 - <span style="display:inline-block;width:1.25em;height:1.25em;line-height:1.25em;border-radius:50%;background:#E89923;color:#fff;font-size:0.8em;font-weight:700;text-align:center;margin-right:0.35em;">3</span>**Compute–memory co-design:** developing accelerator architectures that coordinate computation and data movement to improve resource utilization.
@@ -65,15 +70,15 @@ My research focuses on computer architecture and hardware–software co-design f
 </div>
 
 <details style="margin:1.2em 0 0.8em;">
-<summary style="cursor:pointer;font-weight:700;color:#012169;font-size:1.05em;margin:0.4em 0;"><span style="color:#E89923;">1.1</span>&nbsp; Sparsity Timeline</summary>
+<summary style="cursor:pointer;font-weight:700;color:#012169;font-size:1.05em;margin:0.4em 0;">Sparsity Timeline</summary>
 {% include research_sparsity.svg %}
 </details>
 <details style="margin:0.8em 0 0.8em;">
-<summary style="cursor:pointer;font-weight:700;color:#012169;font-size:1.05em;margin:0.4em 0;"><span style="color:#E89923;">1.2</span>&nbsp; Quantization Stages</summary>
+<summary style="cursor:pointer;font-weight:700;color:#012169;font-size:1.05em;margin:0.4em 0;">Quantization Stages</summary>
 {% include research_quant.svg %}
 </details>
 <details style="margin:0.8em 0 1.2em;">
-<summary style="cursor:pointer;font-weight:700;color:#012169;font-size:1.05em;margin:0.4em 0;"><span style="color:#E89923;">2 &amp; 3</span>&nbsp; Closing the Utilization Gap</summary>
+<summary style="cursor:pointer;font-weight:700;color:#012169;font-size:1.05em;margin:0.4em 0;">Closing the Utilization Gap</summary>
 {% include research_util.svg %}
 </details>
 
@@ -86,6 +91,10 @@ My research focuses on computer architecture and hardware–software co-design f
 - *2026.07*: &nbsp;🏛️ Serving as **Publicity Co-Chair** for [HPCA 2027](https://conf.researchr.org/committee/hpca-2027/hpca-2027-organizing-committee).
 - *2026.07*: &nbsp;🎉 One paper was accepted to **MICRO 2026**.
 - *2026.03*: &nbsp;🎉 One paper was accepted to **ISCA 2026**.
+
+<details markdown="1">
+<summary style="cursor:pointer;font-weight:700;color:#012169;margin:0.4em 0;">Earlier News</summary>
+
 - *2026.03*: &nbsp;🔥 Our ASPLOS 2026 paper (*M2XFP*) was **nominated** for Best Paper.
 - *2026.02*: &nbsp;🎉🎉 Two papers were accepted to **DAC 2026**.
 - *2026.01*: &nbsp;🎉 One paper was accepted to **ICLR 2026**.
@@ -98,7 +107,8 @@ My research focuses on computer architecture and hardware–software co-design f
 - *2024.03*: &nbsp;🎉 I received the [**2023 Shanghai Jiao Tong University Outstanding Doctoral Dissertation Award**](https://www.gs.sjtu.edu.cn/yxbslw?year_id=187#anchor)  
   (15 recipients university-wide, <1% per year; 2023年度上海交通大学优秀博士学位论文，全校共15人).
 - *2023.11*: &nbsp;🎉🎉 Two papers were accepted to **ASPLOS 2024**.
-  
+
+</details>
 
 # 💻 Experience
 
@@ -277,7 +287,7 @@ ICCD 2022.
 - Reviewer, **ICCV 2025**
 
 
-# 📖 Educations
+# 📖 Education
 - *2020.09 - 2023.09*, Ph.D. in Computer Science, Department of Computer Science and Engineering, Shanghai Jiao Tong University. Dissertation: *Software–Hardware Co-Design for Tiny Artificial Intelligence* (Outstanding Doctoral Dissertation Award).
 - *2017.09 - 2020.03*, M.E. in Computer Technology, Department of Computer Science and Engineering, Shanghai Jiao Tong University.
 - *2012.09 - 2016.06*, B.S. in Computer Science, College of Computer Science and Software Engineering, Shenzhen University.

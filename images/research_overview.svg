@@ -27,14 +27,14 @@
 <text x="400.0" y="160.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#1E293B">LLM Decode: <tspan font-weight="700" fill="#E5484D">&lt;1%</tspan> Utilization</text>
 <!-- 2 -->
 <rect x="235.0" y="4" width="330" height="40" rx="9" fill="#00539B"/>
-<circle cx="253.0" cy="24" r="8" fill="#fff"/><text x="253.0" y="27.6" text-anchor="middle" font-size="11" font-weight="700" fill="#00539B">2</text>
+<circle cx="253.0" cy="24" r="8" fill="#fff"/><text x="253.0" y="27.6" text-anchor="middle" font-size="11" font-weight="700" fill="#00539B">3</text>
 <text x="406.0" y="22" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF">Top-Down: Adapting the Workload</text>
 <text x="406.0" y="37" text-anchor="middle" font-size="11.5" fill="#FFFFFF" fill-opacity="0.92">Expand parallelism to fit the hardware</text>
 <line x1="400.0" y1="45" x2="400.0" y2="95.0" stroke="#00539B" stroke-width="1.6" marker-end="url(#m2)"/>
 <!-- 3 -->
 <line x1="400.0" y1="193" x2="400.0" y2="165.0" stroke="#E89923" stroke-width="1.6" marker-end="url(#m3)"/>
 <rect x="235.0" y="194" width="330" height="40" rx="9" fill="#E89923"/>
-<circle cx="253.0" cy="214" r="8" fill="#fff"/><text x="253.0" y="217.6" text-anchor="middle" font-size="11" font-weight="700" fill="#E89923">3</text>
+<circle cx="253.0" cy="214" r="8" fill="#fff"/><text x="253.0" y="217.6" text-anchor="middle" font-size="11" font-weight="700" fill="#E89923">2</text>
 <text x="406.0" y="212" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF">Bottom-Up: Adapting the Hardware</text>
 <text x="406.0" y="227" text-anchor="middle" font-size="11.5" fill="#FFFFFF" fill-opacity="0.92">Fit both compute and memory demands</text>
 </g>

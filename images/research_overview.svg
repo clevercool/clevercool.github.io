@@ -4,38 +4,38 @@
 <marker id="m2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#00539B"/></marker>
 <marker id="m3" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#E89923"/></marker>
 </defs>
-<text x="400.0" y="20" text-anchor="middle" font-size="17" font-weight="700" fill="#012169">Toward Next-Generation AI Infrastructure</text>
+<text x="400.0" y="20" text-anchor="middle" font-size="14.5" font-weight="700" fill="#012169">Toward Next-Generation AI Infrastructure</text>
 <g transform="translate(0,28)">
 <!-- 1 -->
 <rect x="60" y="68" width="680" height="104" rx="11" fill="#EFF7F6" stroke="#B5D9D6"/>
 <circle cx="78" cy="84" r="8" fill="#14625F"/><text x="78" y="87.6" text-anchor="middle" font-size="11" font-weight="700" fill="#fff">1</text>
-<text x="91" y="88.5" font-size="13" font-weight="700" fill="#14625F">Efficient Compression Co-Processor</text>
-<text x="720" y="88.5" text-anchor="end" font-size="13" font-weight="700" fill="#14625F">Quantization / Sparsity</text>
+<text x="91" y="88.5" font-size="11" font-weight="700" fill="#14625F">Efficient Compression Co-Processor</text>
+<text x="720" y="88.5" text-anchor="end" font-size="11" font-weight="700" fill="#14625F">Quantization / Sparsity</text>
 <rect x="100" y="97.0" width="150" height="50" rx="7" fill="#FFFFFF" stroke="#B5D9D6"/>
-<text x="175.0" y="115.0" text-anchor="middle" font-size="14" font-weight="700" fill="#14625F">Decoder</text><rect x="154.0" y="121.0" width="7" height="7" rx="1.3" fill="#2A8C8C" stroke="#2A8C8C" stroke-width="0.6"/><rect x="154.0" y="130.0" width="7" height="7" rx="1.3" fill="#2A8C8C" stroke="#2A8C8C" stroke-width="0.6"/><path d="M164.0,129.0 L173.0,129.0" stroke="#2A8C8C" stroke-width="1.2" marker-end="url(#m1)"/><rect x="177.0" y="121.0" width="7" height="7" rx="1.3" fill="#D3ECEA" stroke="#2A8C8C" stroke-width="0.6"/><rect x="186.0" y="121.0" width="7" height="7" rx="1.3" fill="#D3ECEA" stroke="#2A8C8C" stroke-width="0.6"/><rect x="177.0" y="130.0" width="7" height="7" rx="1.3" fill="#D3ECEA" stroke="#2A8C8C" stroke-width="0.6"/><rect x="186.0" y="130.0" width="7" height="7" rx="1.3" fill="#D3ECEA" stroke="#2A8C8C" stroke-width="0.6"/>
+<text x="175.0" y="115.0" text-anchor="middle" font-size="12" font-weight="700" fill="#14625F">Decoder</text><rect x="154.0" y="121.0" width="7" height="7" rx="1.3" fill="#2A8C8C" stroke="#2A8C8C" stroke-width="0.6"/><rect x="154.0" y="130.0" width="7" height="7" rx="1.3" fill="#2A8C8C" stroke="#2A8C8C" stroke-width="0.6"/><path d="M164.0,129.0 L173.0,129.0" stroke="#2A8C8C" stroke-width="1.2" marker-end="url(#m1)"/><rect x="177.0" y="121.0" width="7" height="7" rx="1.3" fill="#D3ECEA" stroke="#2A8C8C" stroke-width="0.6"/><rect x="186.0" y="121.0" width="7" height="7" rx="1.3" fill="#D3ECEA" stroke="#2A8C8C" stroke-width="0.6"/><rect x="177.0" y="130.0" width="7" height="7" rx="1.3" fill="#D3ECEA" stroke="#2A8C8C" stroke-width="0.6"/><rect x="186.0" y="130.0" width="7" height="7" rx="1.3" fill="#D3ECEA" stroke="#2A8C8C" stroke-width="0.6"/>
 
 <rect x="550" y="97.0" width="150" height="50" rx="7" fill="#FFFFFF" stroke="#B5D9D6"/>
-<text x="625.0" y="115.0" text-anchor="middle" font-size="14" font-weight="700" fill="#14625F">Encoder</text><rect x="604.0" y="121.0" width="7" height="7" rx="1.3" fill="#D3ECEA" stroke="#2A8C8C" stroke-width="0.6"/><rect x="613.0" y="121.0" width="7" height="7" rx="1.3" fill="#D3ECEA" stroke="#2A8C8C" stroke-width="0.6"/><rect x="604.0" y="130.0" width="7" height="7" rx="1.3" fill="#D3ECEA" stroke="#2A8C8C" stroke-width="0.6"/><rect x="613.0" y="130.0" width="7" height="7" rx="1.3" fill="#D3ECEA" stroke="#2A8C8C" stroke-width="0.6"/><path d="M623.0,129.0 L632.0,129.0" stroke="#2A8C8C" stroke-width="1.2" marker-end="url(#m1)"/><rect x="636.0" y="121.0" width="7" height="7" rx="1.3" fill="#2A8C8C" stroke="#2A8C8C" stroke-width="0.6"/><rect x="636.0" y="130.0" width="7" height="7" rx="1.3" fill="#2A8C8C" stroke="#2A8C8C" stroke-width="0.6"/>
+<text x="625.0" y="115.0" text-anchor="middle" font-size="12" font-weight="700" fill="#14625F">Encoder</text><rect x="604.0" y="121.0" width="7" height="7" rx="1.3" fill="#D3ECEA" stroke="#2A8C8C" stroke-width="0.6"/><rect x="613.0" y="121.0" width="7" height="7" rx="1.3" fill="#D3ECEA" stroke="#2A8C8C" stroke-width="0.6"/><rect x="604.0" y="130.0" width="7" height="7" rx="1.3" fill="#D3ECEA" stroke="#2A8C8C" stroke-width="0.6"/><rect x="613.0" y="130.0" width="7" height="7" rx="1.3" fill="#D3ECEA" stroke="#2A8C8C" stroke-width="0.6"/><path d="M623.0,129.0 L632.0,129.0" stroke="#2A8C8C" stroke-width="1.2" marker-end="url(#m1)"/><rect x="636.0" y="121.0" width="7" height="7" rx="1.3" fill="#2A8C8C" stroke="#2A8C8C" stroke-width="0.6"/><rect x="636.0" y="130.0" width="7" height="7" rx="1.3" fill="#2A8C8C" stroke="#2A8C8C" stroke-width="0.6"/>
 
 <line x1="252" y1="122" x2="372.0" y2="122" stroke="#2A8C8C" stroke-width="1.6" marker-end="url(#m1)"/>
-<text x="312.0" y="116" text-anchor="middle" font-size="12" font-style="italic" fill="#14625F">Decompress</text>
+<text x="312.0" y="116" text-anchor="middle" font-size="10.5" font-style="italic" fill="#14625F">Decompress</text>
 <line x1="428.0" y1="122" x2="547" y2="122" stroke="#2A8C8C" stroke-width="1.6" marker-end="url(#m1)"/>
-<text x="487.5" y="116" text-anchor="middle" font-size="12" font-style="italic" fill="#14625F">Compress</text>
+<text x="487.5" y="116" text-anchor="middle" font-size="10.5" font-style="italic" fill="#14625F">Compress</text>
 <g fill="#94A3B8"><rect x="388.6" y="98.0" width="2.8" height="4" rx="0.7"/><rect x="388.6" y="142.0" width="2.8" height="4" rx="0.7"/><rect x="376.0" y="110.6" width="4" height="2.8" rx="0.7"/><rect x="420.0" y="110.6" width="4" height="2.8" rx="0.7"/><rect x="398.6" y="98.0" width="2.8" height="4" rx="0.7"/><rect x="398.6" y="142.0" width="2.8" height="4" rx="0.7"/><rect x="376.0" y="120.6" width="4" height="2.8" rx="0.7"/><rect x="420.0" y="120.6" width="4" height="2.8" rx="0.7"/><rect x="408.6" y="98.0" width="2.8" height="4" rx="0.7"/><rect x="408.6" y="142.0" width="2.8" height="4" rx="0.7"/><rect x="376.0" y="130.6" width="4" height="2.8" rx="0.7"/><rect x="420.0" y="130.6" width="4" height="2.8" rx="0.7"/></g>
 <rect x="380.0" y="102.0" width="40" height="40" rx="4.5" fill="#012169"/>
 <rect x="386.00" y="108.00" width="5.50" height="5.50" rx="1" fill="#E89923"/><rect x="393.50" y="108.00" width="5.50" height="5.50" rx="1" fill="#E89923"/><rect x="401.00" y="108.00" width="5.50" height="5.50" rx="1" fill="#E89923"/><rect x="408.50" y="108.00" width="5.50" height="5.50" rx="1" fill="#E89923"/><rect x="386.00" y="115.50" width="5.50" height="5.50" rx="1" fill="#2E4A85"/><rect x="393.50" y="115.50" width="5.50" height="5.50" rx="1" fill="#2E4A85"/><rect x="401.00" y="115.50" width="5.50" height="5.50" rx="1" fill="#2E4A85"/><rect x="408.50" y="115.50" width="5.50" height="5.50" rx="1" fill="#2E4A85"/><rect x="386.00" y="123.00" width="5.50" height="5.50" rx="1" fill="#2E4A85"/><rect x="393.50" y="123.00" width="5.50" height="5.50" rx="1" fill="#2E4A85"/><rect x="401.00" y="123.00" width="5.50" height="5.50" rx="1" fill="#2E4A85"/><rect x="408.50" y="123.00" width="5.50" height="5.50" rx="1" fill="#2E4A85"/><rect x="386.00" y="130.50" width="5.50" height="5.50" rx="1" fill="#2E4A85"/><rect x="393.50" y="130.50" width="5.50" height="5.50" rx="1" fill="#2E4A85"/><rect x="401.00" y="130.50" width="5.50" height="5.50" rx="1" fill="#2E4A85"/><rect x="408.50" y="130.50" width="5.50" height="5.50" rx="1" fill="#2E4A85"/>
-<text x="400.0" y="160.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#1E293B">LLM Decode: <tspan font-weight="700" fill="#E5484D">&lt;1%</tspan> Utilization</text>
+<text x="400.0" y="160.0" text-anchor="middle" font-size="10.5" font-weight="600" fill="#1E293B">LLM Decode: <tspan font-weight="700" fill="#E5484D">&lt;1%</tspan> Utilization</text>
 <!-- 2 -->
 <rect x="235.0" y="4" width="330" height="40" rx="9" fill="#00539B"/>
 <circle cx="253.0" cy="24" r="8" fill="#fff"/><text x="253.0" y="27.6" text-anchor="middle" font-size="11" font-weight="700" fill="#00539B">3</text>
-<text x="406.0" y="22" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF">Top-Down: Adapting the Workload</text>
-<text x="406.0" y="37" text-anchor="middle" font-size="11.5" fill="#FFFFFF" fill-opacity="0.92">Expand parallelism to fit the hardware</text>
+<text x="406.0" y="22" text-anchor="middle" font-size="12" font-weight="700" fill="#FFFFFF">Top-Down: Adapting the Workload</text>
+<text x="406.0" y="37" text-anchor="middle" font-size="10" fill="#FFFFFF" fill-opacity="0.92">Expand parallelism to fit the hardware</text>
 <line x1="400.0" y1="45" x2="400.0" y2="95.0" stroke="#00539B" stroke-width="1.6" marker-end="url(#m2)"/>
 <!-- 3 -->
 <line x1="400.0" y1="193" x2="400.0" y2="165.0" stroke="#E89923" stroke-width="1.6" marker-end="url(#m3)"/>
 <rect x="235.0" y="194" width="330" height="40" rx="9" fill="#E89923"/>
 <circle cx="253.0" cy="214" r="8" fill="#fff"/><text x="253.0" y="217.6" text-anchor="middle" font-size="11" font-weight="700" fill="#E89923">2</text>
-<text x="406.0" y="212" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF">Bottom-Up: Adapting the Hardware</text>
-<text x="406.0" y="227" text-anchor="middle" font-size="11.5" fill="#FFFFFF" fill-opacity="0.92">Fit both compute and memory demands</text>
+<text x="406.0" y="212" text-anchor="middle" font-size="12" font-weight="700" fill="#FFFFFF">Bottom-Up: Adapting the Hardware</text>
+<text x="406.0" y="227" text-anchor="middle" font-size="10" fill="#FFFFFF" fill-opacity="0.92">Fit both compute and memory demands</text>
 </g>
 </svg>

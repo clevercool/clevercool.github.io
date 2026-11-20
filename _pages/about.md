@@ -52,16 +52,17 @@ I am a Visiting Research Scientist at **Meta** (Menlo Park, CA). Previously, I w
 
 <br>
 
+I have published 38 peer-reviewed papers (34 conference papers and 4 journal/magazine articles), including 20 papers at the four flagship computer architecture conferences (HPCA ×8, ISCA ×6, ASPLOS ×4, MICRO ×2), among which 13 are first- or corresponding-author publications. My work has received an **HPCA 2026 Best Paper Nomination**, an **ASPLOS 2026 Best Paper Nomination**, and was selected as an **IEEE 2022 Micro Top Pick (Honorable Mention)**.
+An up-to-date publication and citation record is available on my [Google Scholar](https://scholar.google.com/citations?user=r3IEwrgAAAAJ) <a href='https://scholar.google.com/citations?user=r3IEwrgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+
 My research focuses on computer architecture and hardware–software co-design for efficient, scalable AI systems, including:
 - <span style="display:inline-block;width:1.25em;height:1.25em;line-height:1.25em;border-radius:50%;background:#14625F;color:#fff;font-size:0.8em;font-weight:700;text-align:center;margin-right:0.35em;">1</span>Hardware-efficient model compression, such as sparsity and quantization.
 - <span style="display:inline-block;width:1.25em;height:1.25em;line-height:1.25em;border-radius:50%;background:#E89923;color:#fff;font-size:0.8em;font-weight:700;text-align:center;margin-right:0.35em;">2</span>Novel accelerator architectures for large language models.
 - <span style="display:inline-block;width:1.25em;height:1.25em;line-height:1.25em;border-radius:50%;background:#00539B;color:#fff;font-size:0.8em;font-weight:700;text-align:center;margin-right:0.35em;">3</span>Systems and infrastructure for large-scale AI serving.
 
-<p align="center"><img src="/images/research_overview.svg" alt="Research overview: Toward Next-Generation AI Infrastructure" style="width:100%;max-width:none;"></p>
+# 🔬 My Research
 
-I have published 38 peer-reviewed papers (34 conference papers and 4 journal/magazine articles), including 20 papers at the four flagship computer architecture conferences (HPCA ×8, ISCA ×6, ASPLOS ×4, MICRO ×2), among which 13 are first- or corresponding-author publications. My work has received an **HPCA 2026 Best Paper Nomination**, an **ASPLOS 2026 Best Paper Nomination**, and was selected as an **IEEE 2022 Micro Top Pick (Honorable Mention)**.
-An up-to-date publication and citation record is available on my [Google Scholar](https://scholar.google.com/citations?user=r3IEwrgAAAAJ) <a href='https://scholar.google.com/citations?user=r3IEwrgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
-
+<p align="center"><img src="/images/research_overview.svg?v=3" alt="Research overview: Toward Next-Generation AI Infrastructure" style="width:100%;max-width:none;"></p>
 
 <div style="margin:1.2em 0 0.6em;">
 {% include research_sparsity.svg %}

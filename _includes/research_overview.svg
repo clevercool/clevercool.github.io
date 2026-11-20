@@ -9,8 +9,8 @@
 <!-- 1 -->
 <rect x="60" y="71" width="680" height="86" rx="11" fill="#EFF7F6" stroke="#B5D9D6"/>
 <circle cx="78" cy="84" r="8" fill="#14625F"/><text x="78" y="87.6" text-anchor="middle" font-size="9.90" font-weight="700" fill="#fff">1</text>
-<text x="91" y="88.5" font-size="9.90" font-weight="700" fill="#14625F">Efficient Compression-Aware Architecture</text>
-<text x="720" y="88.5" text-anchor="end" font-size="9.90" font-weight="700" fill="#14625F">Quantization / Sparsity</text>
+<text x="91" y="88.5" font-size="11" font-weight="700" fill="#14625F">Efficient Compression-Aware Architecture</text>
+<text x="720" y="88.5" text-anchor="end" font-size="11" font-weight="700" fill="#14625F">Quantization / Sparsity</text>
 <rect x="100" y="97.0" width="150" height="50" rx="7" fill="#FFFFFF" stroke="#B5D9D6"/>
 <text x="175.0" y="115.0" text-anchor="middle" font-size="10.80" font-weight="700" fill="#14625F">Decoder</text><rect x="154.0" y="121.0" width="7" height="7" rx="1.3" fill="#2A8C8C" stroke="#2A8C8C" stroke-width="0.6"/><rect x="154.0" y="130.0" width="7" height="7" rx="1.3" fill="#2A8C8C" stroke="#2A8C8C" stroke-width="0.6"/><path d="M164.0,129.0 L173.0,129.0" stroke="#2A8C8C" stroke-width="1.2" marker-end="url(#m1)"/><rect x="177.0" y="121.0" width="7" height="7" rx="1.3" fill="#D3ECEA" stroke="#2A8C8C" stroke-width="0.6"/><rect x="186.0" y="121.0" width="7" height="7" rx="1.3" fill="#D3ECEA" stroke="#2A8C8C" stroke-width="0.6"/><rect x="177.0" y="130.0" width="7" height="7" rx="1.3" fill="#D3ECEA" stroke="#2A8C8C" stroke-width="0.6"/><rect x="186.0" y="130.0" width="7" height="7" rx="1.3" fill="#D3ECEA" stroke="#2A8C8C" stroke-width="0.6"/>
 <rect x="550" y="97.0" width="150" height="50" rx="7" fill="#FFFFFF" stroke="#B5D9D6"/>

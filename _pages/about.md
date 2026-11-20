@@ -64,11 +64,11 @@ My research focuses on computer architecture and hardware–software co-design f
 
 <p align="center"><img src="/images/research_overview.svg?v=3" alt="Research overview: Toward Next-Generation AI Infrastructure" style="width:100%;max-width:none;"></p>
 
-<details open style="margin:1.2em 0 0.8em;">
+<details style="margin:1.2em 0 0.8em;">
 <summary style="cursor:pointer;font-weight:700;color:#012169;font-size:1.05em;margin:0.4em 0;"><span style="color:#E89923;">1-1</span>&nbsp; Sparsity Timeline</summary>
 {% include research_sparsity.svg %}
 </details>
-<details open style="margin:0.8em 0 1.2em;">
+<details style="margin:0.8em 0 1.2em;">
 <summary style="cursor:pointer;font-weight:700;color:#012169;font-size:1.05em;margin:0.4em 0;"><span style="color:#E89923;">1-2</span>&nbsp; Quantization Stages</summary>
 {% include research_quant.svg %}
 </details>

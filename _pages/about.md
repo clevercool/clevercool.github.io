@@ -262,6 +262,7 @@ ICCD 2022.
 - *2026.09*, "Where Quantization Architecture Goes Next: Co-Designing Data Types and Hardware for LLM Inference." AI and Systems Co-Design Organization, Meta, Menlo Park, CA.
 - *2025.04*, "Unlocking New Opportunities in Quantization and Sparsity Co-Design for Large Language Models." Athena Seminar Series, NSF AI Institute for Edge Computing and Systems (Athena), Duke University, Durham, NC.
 - *2025.03*, "Unlocking New Opportunities in Quantization and Sparsity Co-Design for Large Language Models." Computer Science Seminar, North Carolina State University, Raleigh, NC.
+- *2024.04*, "Accelerating Sparse DNNs with Structured Sparsity." ASPLOS 2024 Tutorial: *Amanda: Unified Instrumentation Framework for Deep Neural Networks*, La Jolla, CA.
 - *2023.08*, "Challenges and Opportunities of Large Language Model Quantization for Computer Architecture." Forum for Outstanding Young Scholars and Ph.D. Students in Computer Architecture, CCF ACA 2023, Nanchang, China.
 - *2020.07*, "Balancing Efficiency and Flexibility for DNN Acceleration via Temporal GPU-Systolic Array Integration." DAC Young Fellows Program, 57th Design Automation Conference (DAC 2020), Virtual.
 
@@ -304,7 +305,6 @@ ICCD 2022.
 
 <!--
 # 🧑‍🏫 Teaching
-- *2024.04*, Tutorial Lecturer, "Accelerating Sparse DNNs with Structured Sparsity." ASPLOS 2024 Tutorial: *Amanda: Unified Instrumentation Framework for Deep Neural Networks*, La Jolla, CA.
 - *Spring 2019*, Teaching Assistant, [Embedded System Principle and Practice](https://www.cs.sjtu.edu.cn/~leng-jw/teach/spring2019.html), Shanghai Jiao Tong University (Instructor: Prof. Jingwen Leng).
 - *Summer 2018*, Teaching Assistant, Introduction to Computing, summer course taught by Prof. Yale N. Patt (UT Austin) at Shanghai Jiao Tong University.
 - *Spring 2018*, Teaching Assistant, [Embedded System Principle and Practice](https://www.cs.sjtu.edu.cn/~leng-jw/teach/spring2018.html), Shanghai Jiao Tong University (Instructor: Prof. Jingwen Leng).
